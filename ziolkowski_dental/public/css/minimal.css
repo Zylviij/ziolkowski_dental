@@ -26,35 +26,94 @@
 p {
 	color: #fff;
 }
+/* Extra small devices (phones, less than 768px) */
+/* No media query since this is the default in Bootstrap */
+#ziolkowski {
+	font-size: 36px;
+}
 
 .dental {
-	font-size: 48px;
+	font-size: 24px;
 	color: #ffffff;
 	font-weight:  bold;
 	font-family: 'Muli', sans-serif;
 }
 
 .cosmetic-and-family {
-	font-size: 36px;
+	font-size: 18px;
 	color: #44A6F7;
 	font-weight: normal;
 	font-family: 'Muli', sans-serif;
 }
 
-#ziolkowski {
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+	#ziolkowski {
+		font-size: 48px;
+	}
+
+	.dental {
+		font-size: 30px;
+		color: #ffffff;
+		font-weight:  bold;
+		font-family: 'Muli', sans-serif;
+	}
+
+	.cosmetic-and-family {
+		font-size: 24px;
+		color: #44A6F7;
+		font-weight: normal;
+		font-family: 'Muli', sans-serif;
+	}
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+	#ziolkowski {
+		font-size: 72px;
+	}
+
+	.dental {
+		font-size: 36px;
+		color: #ffffff;
+		font-weight:  bold;
+		font-family: 'Muli', sans-serif;
+	}
+
+	.cosmetic-and-family {
+		font-size: 30px;
+		color: #44A6F7;
+		font-weight: normal;
+		font-family: 'Muli', sans-serif;
+	}
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+	#ziolkowski {
+		font-size: 96px;
+	}
+
+	.dental {
+		font-size: 48px;
+		color: #ffffff;
+		font-weight:  bold;
+		font-family: 'Muli', sans-serif;
+	}
+
+	.cosmetic-and-family {
+		font-size: 36px;
+		color: #44A6F7;
+		font-weight: normal;
+		font-family: 'Muli', sans-serif;
+	}
+}
+
+.steph {
 	font-family: 'stephanie_marie_jfregular';
-	font-size: 96px;
 }
 
-#brand {
-	margin-left: -15px;
-	margin-top: -15px;
-	height: 50px;
-}
 
-#logo {
-	width: 50%;
-}
 
 img.employee {
 	max-width: 120px;
