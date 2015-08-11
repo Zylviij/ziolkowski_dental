@@ -1,61 +1,71 @@
-var express = require('express')
-var app = express()
-console.log('express: required')
-
-var http = require('http');
-var https = require('https')
-
-var fs = require("fs");
-console.log('fs: required')
-
-
-var options = {
-    key: fs.readFileSync('./key.pem'),
-    cert: fs.readFileSync('./cert.pem')
+function datedConsole(input) {
+    var d = new Date()
+    console.log('' + (d.getMonth()+1) + '/' + (d.getDate()) + '/' +(d.getFullYear()) +' ' + (d.getHours()) + ':' + (d.getMinutes()) + ':' + (d.getSeconds()) + '$ ' + input)
 }
 
+console.log('Initialization:')
+console.log('\tRequires:')
+
+var express = require('express')
+var app = express()
+console.log('\t\tExpress: required')
+
+var fs = require("fs")
+console.log('\t\tfs: required')
+
 var path = require('path')
-console.log('path: required')
+console.log('\t\tpath: required')
 
-var bodyParser  = require('body-parser');
-app.use(bodyParser.urlencoded({ extended: true }));
+var bodyParser  = require('body-parser')
+console.log('\t\tbodyParser: required')
 
-app.use(bodyParser.json());
-console.log('bodyParser: used')
+var nodemailer = require('nodemailer')
+console.log('\t\tnodemailer: required')
+
+console.log('\tSettings')
+
+app.set('view engine', 'jade')
+console.log('\t\tengine: ~jade')
+
+app.use(bodyParser.urlencoded({ extended: true }))
+app.use(bodyParser.json())
+console.log('\t\tbodyParser: used')
 
 app.set('views', path.join(__dirname, 'views'))
-console.log('views: ./views')
+console.log('\t\tviews: ./views')
 
 app.use(express.static(__dirname + '/public'))
-console.log('express.static: used')
-
-app.set('view engine', 'jade');
-console.log('view engine: jade')
-
-var nodemailer = require('nodemailer');
+console.log('\t\texpress.static: used')
 
 // create reusable transporter object using SMTP transport
 var transporter = nodemailer.createTransport();
+console.log('\t\tnodemailer: configured')
 
-app.get('/', function(req, res) {
-    res.render('home');
-});
-console.log('/: defined')
+console.log('\tViews')
 
-app.get('/todo', function(req, res) {
-    res.render('todo');
-});
-console.log('/todo: defined')
-
-app.get('/index', function(req, res) {
-    res.render('index');
-});
-console.log('/index: defined')
-
-app.get('/special', function(req, res) {
-    res.render('special')
+app.get('/', function(req, res){
+    datedConsole('Request to \'/\'')
+    datedConsole('\t Sending response')
+    res.render('index')
+    datedConsole('\t Response sent')
 })
-console.log('/special: defined')
+console.log('\t\t\'/\': defined')
+
+app.get('/special', function(req, res){
+    datedConsole('Request to \'/special\'')
+    datedConsole('\t Sending response')
+    res.render('special')
+    datedConsole('\t Response sent')
+})
+console.log('\t\t\'/special\': defined')
+
+app.get('/newpatient', function(req, res){
+    datedConsole('Request to \'/newpatient\'')
+    datedConsole('\t Sending response')
+    res.render('newpatient')
+    datedConsole('\t Response sent')
+})
+console.log('\t\t\'/newpatient\': defined')
 
 app.post('/', function(req, res){
     console.log(req.body);
@@ -75,9 +85,9 @@ app.post('/', function(req, res){
 
 });
 
-var port = 3000
-var portssl = 3001
-http.createServer(app).listen(port)
-console.log('http')
-https.createServer(options, app).listen(portssl)
-console.log('https')
+var server = app.listen(3000, function () {
+    var host = server.address().address
+    var port = server.address().port
+
+  console.log('Listening at http://%s:%s', host, port)
+})
