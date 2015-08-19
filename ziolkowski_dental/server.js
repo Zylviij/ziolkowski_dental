@@ -67,14 +67,22 @@ app.get('/newpatient', function(req, res){
 })
 console.log('\t\t\'/newpatient\': defined')
 
+app.get('/concern', function(req, res){
+    datedConsole('Request to \'/concern\'')
+    datedConsole('\t Sending response')
+    res.render('concern')
+    datedConsole('\t Response sent')
+})
+console.log('\t\t\'/concern\': defined')
+
 app.post('/', function(req, res){
     console.log(req.body);
     // send mail with defined transport object
     transporter.sendMail({
-        from: req.body.firstName + ' ' + req.body.lastName + ' <' + req.body.email + '>', // sender address
+        from: req.body.firstName + (req.body.lastName===undefined? "" : (' ' + req.body.lastName)) + ' <' + req.body.email + '>', // sender address
         to: 'team@ziolkowskidental.com', // list of receivers
         subject: 'MESSAGE FROM WEBSITE', // Subject line
-        text: 'Patient Type: ' + req.body.type + '\n' + 'Phone number: ' + req.body.phone + '\n' + 'Message: ' + req.body.message // plaintext body
+        text: (req.body.type===undefined? "DISLIKE Patient" : ('Patient Type: ' + req.body.type)) + '\n' + (req.body.phone===undefined? "" : ('Phone number: ' + req.body.phone + '\n')) + 'Message: ' + req.body.message // plaintext body
     }, function(error, info){
         if(error){
             console.log(error);

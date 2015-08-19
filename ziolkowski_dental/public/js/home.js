@@ -1,3 +1,7 @@
+function reload() {
+  location.reload();
+}
+
 $(document).ready(function() {
   var d = new Date();
   var date = d.getDate();

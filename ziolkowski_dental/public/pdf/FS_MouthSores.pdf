@@ -1,0 +1,2081 @@
+%PDF-1.4
+%”ÙÃ·
+% PDFsharp Version 0.9.653 (verbose mode)
+% Creation date: 7/30/2014 1:47:49 PM            
+% Creation time: 0.031 seconds                   
+% File size:     97566 bytes                     
+% Pages:         1                               
+% Objects:       54                              
+%--------------------------------------------------------------------------------------------------
+1 0 obj   % PdfSharp.Pdf.PdfDictionary
+<<
+  /Nums [0 2 0 R]
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+2 0 obj   % PdfSharp.Pdf.PdfDictionary
+<<
+  /S /D
+  /St 47
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+3 0 obj   % PdfSharp.Pdf.PdfPages
+<<
+  /Count 1
+  /Kids [7 0 R]
+  /Type /Pages
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+4 0 obj   % PdfSharp.Pdf.PdfDictionary
+<<
+  /Length 22120
+  /Subtype /XML
+  /Type /Metadata
+>>
+stream
+<?xpacket begin="Ôªø" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 4.1-c037 46.282696, Mon Apr 02 2007 18:36:56        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:xapMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
+            xmlns:stMfs="http://ns.adobe.com/xap/1.0/sType/ManifestItem#">
+         <xapMM:InstanceID>uuid:96800931-0cd7-4c19-bfea-ca9112b65fb6</xapMM:InstanceID>
+         <xapMM:DocumentID>adobe:docid:indd:83b10ba5-7fda-11dd-b5f7-8b717ea1eb08</xapMM:DocumentID>
+         <xapMM:RenditionClass>proof:pdf</xapMM:RenditionClass>
+         <xapMM:DerivedFrom rdf:parseType="Resource">
+            <stRef:instanceID>8ffd3337-71ad-11dd-ab85-c673ce2a602a</stRef:instanceID>
+            <stRef:documentID>adobe:docid:indd:52c65111-6b91-11dd-9415-c6b940b9ac4b</stRef:documentID>
+         </xapMM:DerivedFrom>
+         <xapMM:Manifest>
+            <rdf:Bag>
+               <rdf:li rdf:parseType="Resource">
+                  <stMfs:linkForm>ReferenceStream</stMfs:linkForm>
+                  <xapMM:placedXResolution>300.00</xapMM:placedXResolution>
+                  <xapMM:placedYResolution>300.00</xapMM:placedYResolution>
+                  <xapMM:placedResolutionUnit>Inches</xapMM:placedResolutionUnit>
+                  <stMfs:reference rdf:parseType="Resource">
+                     <stRef:instanceID>uuid:EB483215864511DD816AD67603D08EBD</stRef:instanceID>
+                     <stRef:documentID>uuid:EB483214864511DD816AD67603D08EBD</stRef:documentID>
+                  </stMfs:reference>
+               </rdf:li>
+            </rdf:Bag>
+         </xapMM:Manifest>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:xap="http://ns.adobe.com/xap/1.0/"
+            xmlns:xapGImg="http://ns.adobe.com/xap/1.0/g/img/">
+         <xap:CreateDate>2008-10-08T15:27:34-05:00</xap:CreateDate>
+         <xap:ModifyDate>2008-10-08T15:27:35-05:00</xap:ModifyDate>
+         <xap:MetadataDate>2008-10-08T15:27:35-05:00</xap:MetadataDate>
+         <xap:CreatorTool>Adobe InDesign CS3 (5.0.3)</xap:CreatorTool>
+         <xap:Thumbnails>
+            <rdf:Alt>
+               <rdf:li rdf:parseType="Resource">
+                  <xapGImg:format>JPEG</xapGImg:format>
+                  <xapGImg:width>256</xapGImg:width>
+                  <xapGImg:height>256</xapGImg:height>
+                  <xapGImg:image>/9j/4AAQSkZJRgABAgEASABIAAD/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAASAAAAAEA&#xA;AQBIAAAAAQAB/+4ADkFkb2JlAGSAAAAAAf/bAIQACgcHBwcHCgcHCg4JCQkOEQwLCwwRFBAQEBAQ&#xA;FBEPEREREQ8RERcaGhoXER8hISEhHystLS0rMjIyMjIyMjIyMgELCQkODA4fFxcfKyMdIysyKysr&#xA;KzIyMjIyMjIyMjIyMjIyMjIyPj4+Pj4yQEBAQEBAQEBAQEBAQEBAQEBAQEBA/8AAEQgBAADEAwER&#xA;AAIRAQMRAf/EAaIAAAAHAQEBAQEAAAAAAAAAAAQFAwIGAQAHCAkKCwEAAgIDAQEBAQEAAAAAAAAA&#xA;AQACAwQFBgcICQoLEAACAQMDAgQCBgcDBAIGAnMBAgMRBAAFIRIxQVEGE2EicYEUMpGhBxWxQiPB&#xA;UtHhMxZi8CRygvElQzRTkqKyY3PCNUQnk6OzNhdUZHTD0uIIJoMJChgZhJRFRqS0VtNVKBry4/PE&#xA;1OT0ZXWFlaW1xdXl9WZ2hpamtsbW5vY3R1dnd4eXp7fH1+f3OEhYaHiImKi4yNjo+Ck5SVlpeYmZ&#xA;qbnJ2en5KjpKWmp6ipqqusra6voRAAICAQIDBQUEBQYECAMDbQEAAhEDBCESMUEFURNhIgZxgZEy&#xA;obHwFMHR4SNCFVJicvEzJDRDghaSUyWiY7LCB3PSNeJEgxdUkwgJChgZJjZFGidkdFU38qOzwygp&#xA;0+PzhJSktMTU5PRldYWVpbXF1eX1RlZmdoaWprbG1ub2R1dnd4eXp7fH1+f3OEhYaHiImKi4yNjo&#xA;+DlJWWl5iZmpucnZ6fkqOkpaanqKmqq6ytrq+v/aAAwDAQACEQMRAD8Am3lPyn5VufKui3Fxounz&#xA;TTafaySSSWsLO7tDGzMzNGSSSdziqbf4M8n/APVh03/pDg/6p4q7/Bnk/wD6sOm/9IcH/VPFXf4M&#xA;8n/9WHTf+kOD/qnirv8ABnk//qw6b/0hwf8AVPFXf4M8n/8AVh03/pDg/wCqeKu/wZ5P/wCrDpv/&#xA;AEhwf9U8Vd/gzyf/ANWHTf8ApDg/6p4q7/Bnk/8A6sOm/wDSHB/1TxV3+DPJ/wD1YdN/6Q4P+qeK&#xA;u/wZ5P8A+rDpv/SHB/1TxV3+DPJ//Vh03/pDg/6p4q7/AAZ5P/6sOm/9IcH/AFTxV3+DPJ//AFYd&#xA;N/6Q4P8Aqnirv8GeT/8Aqw6b/wBIcH/VPFXf4M8n/wDVh03/AKQ4P+qeKu/wZ5P/AOrDpv8A0hwf&#xA;9U8Vd/gzyf8A9WHTf+kOD/qnirv8GeT/APqw6b/0hwf9U8Vd/gzyf/1YdN/6Q4P+qeKu/wAGeT/+&#xA;rDpv/SHB/wBU8Vd/gzyf/wBWHTf+kOD/AKp4q7/Bnk//AKsOm/8ASHB/1TxV3+DPJ/8A1YdN/wCk&#xA;OD/qnirEv8M+W/8Alaf6O/RNj9T/AMP+v9W+rRel6v1zh6np8OPLjtypWmKst8mf8ofoP/bNs/8A&#xA;kxHiqaz3VtagNczRwBjQGRgoJ9uRGKqH6W0r/ltt/wDkan/NWKu/S2lf8ttv/wAjU/5qxV36W0r/&#xA;AJbbf/kan/NWKu/S2lf8ttv/AMjU/wCasVd+ltK/5bbf/kan/NWKu/S2lf8ALbb/API1P+asVRMU&#xA;sU8YlgdZY2rR0IZTQ0NCMVX4q7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYqwz/yr/8A4Lf/AGPY&#xA;qnPkz/lD9B/7Ztn/AMmI8VReq6Lp+tRxxahGZFiYsgDFaEin7JGKpX/gPyz/AMsz/wDI1/8AmrFX&#xA;f4D8s/8ALM//ACNk/wCasVbHkTy0K0t332P71/8AmrFWv8B+Wf8Almf/AJGyf81Yq7/Afln/AJZn&#xA;/wCRsn/NWKt/4E8tUp9Xeh3/AL1/+asVTqwsbbTbVLK0UpDHyKgkk/Exc7n3bFURirsVdirsVdir&#xA;sVdirsVdirsVdirsVdirsVdirDP/ACr/AP4Lf/Y9iqa+Tre3byjoTNEhJ02zJJUVJ9CP2xVODb2q&#xA;gs0UYA3JKrQD7sVQOj6joWv2hvtIaO5tw5jLiMpRlpUUkRT38MVUbrXfLFnqkWiXM8EeoTlVjt+F&#xA;WJf7AJVSATXapxVNfqtt/vmP/gR/TFXfVbb/AHzH/wACP6Yq0be1UFmijAG5JVaAfdiqVaVr/lbW&#xA;7qWy0q4gup4FLyIiH7IIXkGKAMKsNwcVTb6rbf75j/4Ef0xVpre0RS7xRqqipJVQAB3OKuFtakVE&#xA;UZB/yR/TFW/qtt/vmP8A4Ef0xV31W2/3zH/wI/pirvqtt/vmP/gR/TFVrwWsaNI0KUQFjRR0G+Kv&#xA;OdT/ADLhtbxEtdLLW9xHHLb+tEisyyKpDUEo2NdsBNJESSrw+er+TddBDD/nim/+ynORGWLYcE+5&#xA;E/4yvkXlJ5fjUe88IP3DlickQgYJqg84XxHJfLkbDfpcIehIoaW5HbHxIpOnmFA+eLnkIxo1gsjm&#xA;iA3ykknb7ItKn6MPiR70HDMdEC/5lKkhhltNMgdW4tzmkJUjrVTap+vJDdrIpWj8/wBvNt9Y0aCn&#xA;dy7fRSqfrxpV175zkhsZ7q2vNGlkgiaVYVt5XMhUVCgidafPfFWb2FxpOpw/WLD0p4gePNUoK/So&#xA;xVi/oQf8rd4emnH/AA3XjxFK/XetMVT3yZ/yh+g/9s2z/wCTEeKrfOmo/oryrql4DxcW7RxnpR5f&#xA;3SH6C+KsV/Kq+05bjVtG0yb1rWIWtxC/EryYwpFcGjKp/vE8MUlU1Jb3yh5xfWZoIr3SPMdzbQSO&#xA;d5bedQRHxr26t/QgYq3F5u11teW5aWM6TJrL6CLL0xzBVRS49X7X2juOmKpfZecPNqeUYtevJ45n&#xA;1K5isbP0oA7xkyTCWZo0VQzELxVemw8cVZT5em1fzF5cv7LXI57ad2uLJZ5YGtpJYWSiT+kacTR+&#xA;3cYoYXNruv8AknR73y3cQwW+pafaxzadqNuquJIHuYon5K6nc8j1Hbcd8UpnqHnDzJ5cbV7bU54L&#xA;6dbGG/s2jiCJCZpktjGeJqwUyVFdziqX+bNQ8wTeXvMehapfJPNoktjJNPHCsf1iG6KkRFR9ji7K&#xA;1R1pTvir0/TIrqCwt4b24+t3CIBJPwEfM+PBagYoRWKuxV2KrXQSIyN0YFT8jir5212YyPpHqUAX&#xA;TrUV+S8B93HI5OTPHzZPBK6QRuh51VSvapNPnTrmJ1c8HZA6rdXkvNLINPIrLG9yNokZ2KlV/mYf&#xA;OmS4e9jZvZNNIt72KAWcUpnEY4uzH7XL4mY7964gFtqIG6Ns7O2gQW0CRxxuSeS0ZnNaGr9+mG+j&#xA;HhHNh35iabb2txBdwxMsk5IlcD4DxAp32OXYj0cPPEc2FHLWhav21+YxV9D/AJVx+n5QttqEsT96&#xA;q38cCtf+Vf8A/Bb/AOx7FU58mf8AKH6D/wBs2z/5MR4qidb0S01+0jsr15FhSaOcrGVHMxHkEfkr&#xA;fCT1xVaug2Sa9/iKNpI7o231N41KiJ05+oGZeNeQPeuKoK48l6Rd64uu3MlxLKkq3C2zS1thKiqi&#xA;SCKn2gF8cVbTyXoqa6dfAm9b1TcCAyH6uJ2XgZxFT7dO9cVdD5M0eLy4vlg+rLZRsZI3dwJkcyGU&#xA;Mroq0KsdtsVRlhoVvYaXLpRuLm7ScOJZ7qUyTN6i8GrJQdumKsN8z+QbTTvLGrS6Sl5qepXKQxI0&#xA;zG4mEa3EMhjjCqDQBfCu2KU/s/IehQwXyTfWLoanCkEv1qVpGjiShSOIt8ShSARWvTFC+DyPokWk&#xA;32kSGe5TUypurieTnO5jp6f7wj9jj8O2Kp1p1kmm2MFjHJJOtugQSTtzkand2oKnFUTirsVdirsV&#xA;fNGukevBGuwjt1jA8ApcAfdhqwoNFPvLeqrdwC1m2mhXbbqBt94zDyRoudinxCmXWFvamFIafCgF&#xA;F7D3+eGNM9whjALDUEigdxEnIvUglufxANUH7Pbp71wgUyviCpM0MStccfThj+1TZVC/F2+FfHDw&#xA;WnlsSlHmF4/MFjJpljS6mQsTOD8KPEFZQx6VkFQMccqLTkgZRLzA5kuCtA+IfPFX0h+XMYj8o2FN&#xA;+UasfpRMCoT/AMq//wCC3/2PYqnPkz/lD9B/7Ztn/wAmI8VRGvX91p1iLiz9D1Oar/pUgiShB/aZ&#xA;kFdvHFWOf4t17w0n/pMj/wCq+Ku/xbr3hpP/AEmR/wDVfFXf4t17w0n/AKTI/wDqvirv8W694aT/&#xA;ANJkf/VfFXf4t17w0n/pMj/6r4qjdI13XtRvY4WisHhBrMba4SR1T+bisrd8VT/UJ5baxnuIeHqR&#xA;RsyeqwRKgbcmJFB9OKsT/wAW694aT/0mR/8AVfFXf4t17w0n/pMj/wCq+Ku/xbr3hpP/AEmR/wDV&#xA;fFXf4t17w0n/AKTI/wDqvirv8W694aT/ANJkf/VfFV0fmrXXkRKaUeTAUW7jJ3PYevirxjWmDahK&#xA;AdkZlAHYc2IH45IIKdaE9ubA3Ita3ELLF6iAgvWijoaEhW3FMxsw3dhphxw5cmTWl0Y6q37PQ9tv&#xA;9rKhs2FX1d5I7CXUbVDLP8PCMUBbbj+1Tp1yYRjPqYVcaFrGpzx3uu3BWLnHGqFh8RchFVFUcR70&#xA;3yy6TLTxBslk3ly2NvdaxZL1jug9QKDi6q38crkx4uvm801K2+qX91ajpBNJHt/ksV/hmVE2HXy2&#xA;KF74sbfSvkIU8o6Wf5oFP8P4YEpd/wCVf/8ABb/7HsVTnyZ/yh+g/wDbNs/+TEeKrfNromlBnNqB&#xA;6q/73KzxdG7Rqx5Yqwv6zbfz6B/yIn/6o4q76zbfz6B/yIn/AOqOKu+s238+gf8AIif/AKo4q76z&#xA;bfz6B/yIn/6o4q76zbfz6B/yIn/6o4qibLVpbKUtYXOiQSSDgTHFcKSCem0PjirN9RMi6LObkw+o&#xA;Lc+qZQxg5cfi5AAtwr7Yq8/+s238+gf8iJ/+qOKu+s238+gf8iJ/+qOKu+s238+gf8iJ/wDqjirv&#xA;rNt/PoH/ACIn/wCqOKu+s238+gf8iJ/+qOKpnoVxoRuwmpfop2YqtuLSGUN6hbavqRLirx7VGrql&#xA;6aUrcTGn/PRskELbHULrTpvWtmpX7SturU8RglES5tmPLLGdmV6LqNzqUU11LwDo9OCCgAoD3JzG&#xA;yRES5ePIcgtOkvSiCOSjIegPbK7ZA0UBHNFc+ZtPdmLuhdYhXZAUblQe+SiSmRFJ/ZWcdpNeRRVC&#xA;Sz+uQd95aF/+GJx6sSdg8h1eJYNTvIU2WOeVF+SuwGZUeTgT2kUCcKH0v5D/AOUP0jan+jL/ABwJ&#xA;Sz/yr/8A4Lf/AGPYqnPkz/lD9B/7Ztn/AMmI8VWeb5lg0kO1xHaj1VHqSwi4Xo23Bkf76Yqwj9JR&#xA;/wDV3tP+4an/AGT4q79JR/8AV3tP+4an/ZPirv0lH/1d7T/uGp/2T4q79JR/9Xe0/wC4an/ZPirv&#xA;0lH/ANXe0/7hqf8AZPirY1KMGo1i1BHQ/o1P+yfFWY2eoPd+VLi7mvluXVJQ120ACilesJTeg9t8&#xA;VYb+ko/+rvaf9w1P+yfFXfpKP/q72n/cNT/snxV36Sj/AOrvaf8AcNT/ALJ8Vd+ko/8Aq72n/cNT&#xA;/snxV36Sj/6u9p/3DU/7J8VT/TvMnlK2tYVvHhnu493nS04VatQQFiFKYqwaXyTBcXV3Jcm/Exur&#xA;iohsrmSMr6r8GV47Z1IZaHr3w2tKY8gKWVkj1GSMfa/0SZCfl6kCkfdjap3DoM1nCI9N0O8hBryc&#xA;pUyeBbmynbK8sONsxZeC1KbQPMcqHjpN2CdxX6vTfxBuch4J72z8wO5Bab5R82WGrw6hNpE7pFyI&#xA;USQGpYFd/wB81B8WHwyvjhP3XzGGkZdCuAZCNy6kCn+qG8MHhFfzApgmqeRPM091PdpYyD1neUxn&#xA;qvJiaVIUd8ujsHHlRJKVv5L8yRkCWwkUHvVP+azhQ+gPKNpLY+WdNtJypkhgVWKVK/RUDAlJf/Kv&#xA;/wDgt/8AY9iqc+TP+UP0H/tm2f8AyYjxVvzRcS22mCSKW4gb1VHK0jEslCG24sybYqxD9L3v/Lfr&#xA;P/SJH/1XxV36Xvf+W/Wf+kSP/qvirv0ve/8ALfrP/SJH/wBV8Vd+l73/AJb9Z/6RI/8Aqvirv0ve&#xA;/wDLfrP/AEiR/wDVfFXfpe9/5b9Z/wCkSP8A6r4qyDSbq5k0DULt7q+kZeao00KpOhVA1Y0EhDfa&#xA;2364qx/9L3v/AC36z/0iR/8AVfFXfpe9/wCW/Wf+kSP/AKr4q79L3v8Ay36z/wBIkf8A1XxV36Xv&#xA;f+W/Wf8ApEj/AOq+Ku/S97/y36z/ANIkf/VfFVW1125guYpprrWLiONgzRNaxgOB+yT62Ksr0jzJ&#xA;baxctbQ2l1bsiGQvcRhFIBVaAh23+LFUHL52sopXiOn6gxRipKwqQaGlR+8xVb/jmx/6t2o/8iF/&#xA;6q4q7/HNj/1btR/5EL/1VxV3+ObH/q3aj/yIX/qrirv8c2P/AFbtR/5EL/1VxV3+ObH/AKt2o/8A&#xA;Ihf+quKp7YXiahZxXkcckSygkJKOLihI+IAnwxVE4qwz/wAq/wD+C3/2PYqnPkz/AJQ/Qf8Atm2f&#xA;/JiPFUbqt9cafaie2tJL5+QX0ovtUNfi6HwxVJv8Uax/1L139/8A17xV3+KNY/6l67+//r3irv8A&#xA;FGsf9S9d/f8A9e8Vd/ijWP8AqXrv7/8Ar3iqeaddTXtnHc3Fu9nJJy5QSfaWjFRXYdQK4qisVQmq&#xA;KzadcqolYmJgBbmkp2/3WaH4vDFWDfVLr/lm8w/8j1/6pYq76pdf8s3mH/kev/VLFXfVLr/lm8w/&#xA;8j1/6pYq76pdf8s3mH/kev8A1SxV31S6/wCWbzD/AMj1/wCqWKu+qXX/ACzeYf8Akev/AFSxVm2k&#xA;3s19amSe0msmRvTEdx9tgAp5/TXFWG3Nrcm4lIt9fILtvHMoXqfs/u+nhiqn9Uuv+WbzD/yPX/ql&#xA;irvql1/yzeYf+R6/9UsVd9Uuv+WbzD/yPX/qlirvql1/yzeYf+R6/wDVLFXfVLr/AJZvMP8AyPX/&#xA;AKpYqmvltbi31NQ9tqwWZGjL38geFP2+VAi7/BQfPFWX4qwz/wAq/wD+C3/2PYqnPkz/AJQ/Qf8A&#xA;tm2f/JiPFWvNkRl0sIIDcn1VPpiYQdm35n9WKsL+oyf9Wl/+4iv9cVd9Rk/6tL/9xFf64q76jJ/1&#xA;aX/7iK/1xV31GT/q0v8A9xFf64q76jJ/1aX/AO4iv9cVd9Rk/wCrS/8A3EV/rirJdHtLpPL1/atp&#xA;0kPqhnihNwJGl5oB8Mv7P2cVSH9B6j/1Ybj/AKTsVd+g9R/6sNx/0nYq79B6j/1Ybj/pOxVE6d5c&#xA;mubyOG+0m4tLduXOf65z40UkfCPEimKp7/gfRPG4/wCRzYq7/A+ieNx/yObFUZpflzTtIuGubQyl&#xA;3Qxn1JC4oSrdD/q4qwu6snN1Mf0W7VkY8v0gq13O9K7YqpfUZP8Aq0v/ANxFf64q76jJ/wBWl/8A&#xA;uIr/AFxV31GT/q0v/wBxFf64q76jJ/1aX/7iK/1xV31GT/q0v/3EV/rirJPK2l2MbrfSI1reqzok&#xA;BuhPVSv2qA+5xVleKsM/8q//AOC3/wBj2Kpz5M/5Q/Qf+2bZ/wDJiPFWvNgiOlASx20q+qvw3bmO&#xA;OtG/aVl3xVhXCy/5ZNG/6SpP+quKo+20G6vIVuLXR9MmhevGRJ5SpoSpoRL4jFVT/DGpf9WPTv8A&#xA;kdN/1UxV3+GNS/6senf8jpv+qmKu/wAMal/1Y9O/5HTf9VMVd/hjUv8Aqx6d/wAjpv8AqpirMJyd&#xA;N0ljbLHH9VgpGsjERrwWihmJ+yKYqxf/ABdrH+/NJ/6SD/zXirv8Xax/vzSf+kg/814q7/F2sf78&#xA;0n/pIP8AzXirv8Xax/vzSf8ApIP/ADXirv8AF2sf780n/pIP/NeKu/xdrH+/NJ/6SD/zXiqa+X9a&#xA;1HVLqSO5Nk0UcfKtpKZHDVUCo5HalcVSa48tajJPK66Lp7hnZgzTSgkE9TSTFVP/AAxqX/Vj07/k&#xA;dN/1UxV3+GNS/wCrHp3/ACOm/wCqmKu/wxqX/Vj07/kdN/1UxV3+GNS/6senf8jpv+qmKu/wxqX/&#xA;AFY9O/5HTf8AVTFU28vaA9pem7vNMtbN4h+4kt5JHarAq1Q7sPsnFWT4qwz/AMq//wCC3/2PYqnP&#xA;kz/lD9B/7Ztn/wAmI8VRWsyaRFZhtbEZteYA9Vea86GmwB98VSH67+XX8tp/yJP/AFTxVH23mfyl&#xA;aQrbWl1FDEleEaI4UVNTQBPE4qqf4x8tf8t6f8C//NGKu/xj5a/5b0/4F/8AmjFXf4x8tf8ALen/&#xA;AAL/APNGKr4vNnl2aVIYr1GkkYIi8X3ZjQD7OKovWSBpV4SY1HovUzgtGNv2wAxI8dsVecerD/y0&#xA;aH/yIl/7JsVd6sP/AC0aH/yIl/7JsVd6sP8Ay0aH/wAiJf8AsmxV3qw/8tGh/wDIiX/smxV3qw/8&#xA;tGh/8iJf+ybFXerD/wAtGh/8iJf+ybFWT+TIZ2mnukfT5LXiYmNjGyP6gKsA3OKPbiTiqX3HmbWI&#xA;7iWNdX01VV2UKyTVABIoaQHfFVP/ABTrX/V50v8A4Cf/ALJ8VbPmnWamms6ZTtVJq/8AUPirX+Kd&#xA;a/6vOl/8BP8A9k+Ku/xTrX/V50v/AICf/snxV3+Kda/6vOl/8BP/ANk+KovSvMOr3eo21vJqunzp&#xA;JIA0cSTB2XuF5QqK/TirNsVYZ/5V/wD8Fv8A7HsVTnyZ/wAofoP/AGzbP/kxHiq3zbdfVNKEv1kW&#xA;n71R6hhW46htuD1H04qwv9OD/q8p/wBw2H/mnFXfpwf9XlP+4bD/AM04q79OKNhrKf8AcNh/5pxV&#xA;36cH/V5T/uGw/wDNOKu/Tg/6vKf9w2H/AJpxVsa7xIZdaUEbgjTYag/8DirNRqkN75Zl1CG4PEQO&#xA;GuGiB+JBxZ/SOx3HTFWE/pwf9XlP+4bD/wA04q79OD/q8p/3DYf+acVd+nB/1eU/7hsP/NOKu/Tg&#xA;/wCryn/cNh/5pxV36cH/AFeU/wC4bD/zTirv04P+ryn/AHDYf+acVZl5e8waRqTCwsWLXEcQklb0&#xA;hErFeCM1BtuWxViV1rQS6mX9MKnGRhx/R0TUoTtyK74qpfpwf9XlP+4bD/zTirv04P8Aq8p/3DYf&#xA;+acVd+nB/wBXlP8AuGw/804q79OD/q8p/wBw2H/mnFXfpwf9XlP+4bD/AM04qyPyfewX81yr3SX8&#xA;kYR0P1VLcxirA0KDetRirLcVYZ/5V/8A8Fv/ALHsVTnyZ/yh+g/9s2z/AOTEeKrvM0jx6aGje7jP&#xA;qKK2Ch5ejdiy/D44qxP63df8tPmH/kQv/VXFXfW7r/lp8w/8iF/6q4q763df8tPmH/kQv/VXFXfW&#xA;7r/lp8w/8iF/6q4q763df8tPmH/kQv8A1VxV31u6/wCWnzD/AMiF/wCquKsms71rny5O4F/G9ujx&#xA;mSWMLdMQobmi8jU/Ftv1xVjP1u6/5afMP/Ihf+quKu+t3X/LT5h/5EL/ANVcVd9buv8Alp8w/wDI&#xA;hf8Aqrirvrd1/wAtPmH/AJEL/wBVcVd9buv+WnzD/wAiF/6q4q763df8tPmH/kQv/VXFWQeVbuSS&#xA;Se3lOpSkgOH1GMIAAacUIdtzXFUjubq5FxKBca+AHbaOFSvU/Z/edPDFVP63df8ALT5h/wCRC/8A&#xA;VXFXfW7r/lp8w/8AIhf+quKu+t3X/LT5h/5EL/1VxV31u6/5afMP/Ihf+quKu+t3X/LT5h/5EL/1&#xA;VxVOfLkF1d3H1tr7VAlsw5QX6BFk5BugDNWmKsrxVhn/AJV//wAFv/sexVOfJn/KH6D/ANs2z/5M&#xA;R4q7zVDJPpYSOG5nPqqeFk4STo29Sj7fRirDf0ddf9W/XP8ApIX/ALJ8Vd+jrr/q365/0kL/ANk+&#xA;Ku/R11/1b9c/6SF/7J8Vd+jrr/q365/0kL/2T4q79HXX/Vv1z/pIX/snxV36Ouv+rfrn/SQv/ZPi&#xA;rNHurnUtBuZZ7K4tZXjkX6srUmNBtwbjsT22xVhf6Ouv+rfrn/SQv/ZPirv0ddf9W/XP+khf+yfF&#xA;Xfo66/6t+uf9JC/9k+Ku/R11/wBW/XP+khf+yfFXfo66/wCrfrn/AEkL/wBk+Ku/R11/1b9c/wCk&#xA;hf8AsnxVmejeXLfSZzdxXV3M0kfAx3MgdRUq1aBF3+HFWI3Wn3TXMxFhrTAyMQUnUKdz9n/Rztiq&#xA;l+jrr/q365/0kL/2T4q79HXX/Vv1z/pIX/snxV36Ouv+rfrn/SQv/ZPirv0ddf8AVv1z/pIX/snx&#xA;V36Ouv8Aq365/wBJC/8AZPirJfKGntA091LHf270EQjvpBICDRuSgRx+GKsnxVhn/lX/APwW/wDs&#xA;exVOfJn/ACh+g/8AbNs/+TEeKrfNsMc2lBJLZLtfVU+nJOtsOjb+ozKPoxVhf6PtP+rLb/8AcVj/&#xA;AOquKu/R9p/1Zbf/ALisf/VXFXfo+0/6stv/ANxWP/qrirv0faf9WW3/AO4rH/1VxV36PtP+rLb/&#xA;APcVj/6q4qq2ul6ZLcxR3WlW8EDMBJKNTjbgvduIlqcVZamlaRYaDew6VGs9tOjsyev8LnjxI9Vm&#xA;ovTrXFWG/o+0/wCrLb/9xWP/AKq4q79H2n/Vlt/+4rH/ANVcVd+j7T/qy2//AHFY/wDqrirv0faf&#xA;9WW3/wC4rH/1VxV36PtP+rLb/wDcVj/6q4q79H2n/Vlt/wDuKx/9VcVZP5PeSEzWMVhFZ2orMXju&#xA;0uT6h4IAQjMRVV/DFWO3VhaG6mJ0eByZGJY6nGpO534+rt8sVUv0faf9WW3/AO4rH/1VxV36PtP+&#xA;rLb/APcVj/6q4q79H2n/AFZbf/uKx/8AVXFXfo+0/wCrLb/9xWP/AKq4q79H2n/Vlt/+4rH/ANVc&#xA;VZd5Y0PSraKPVLa3FvdOjRyKk/rqu+68gzKegxVkWKsM/wDKv/8Agt/9j2Kpz5M/5Q/Qf+2bZ/8A&#xA;JiPFVnm9VbSQGS1kHqrteuyR9G7o6Gv04qwj0of+WfQ/+R8v/ZTirvSh/wCWfQ/+R8v/AGU4q70o&#xA;f+WfQ/8AkfL/ANlOKu9KH/ln0P8A5Hy/9lOKu9KH/ln0P/kfL/2U4quWCN2CJbaIzMQFAnlqSe3+&#xA;9OKsts7TULPy7fWmoWtnbIiP6USM/olWBLeozSFgK++KsQ9KH/ln0P8A5Hy/9lOKu9KH/ln0P/kf&#xA;L/2U4q70of8Aln0P/kfL/wBlOKu9KH/ln0P/AJHy/wDZTirvSh/5Z9D/AOR8v/ZTiq5IrfkOdvog&#xA;Wo5UnlrTv/x8Yqz7RdP0O2ja60RIxHPs0kTFg3AnuWPQ4qwW7ji+tTVt9FP7x93nlDdT9r/SBviq&#xA;j6UP/LPof/I+X/spxV3pQ/8ALPof/I+X/spxV3pQ/wDLPof/ACPl/wCynFXelD/yz6H/AMj5f+yn&#xA;FXelD/yz6H/yPl/7KcVT7y5q13b3NvpqtpUVnI5rHbSs0lWB+xylfctTFWbYqwz/AMq//wCC3/2P&#xA;YqnPkz/lD9B/7Ztn/wAmI8VW+bZYodKDyvbxr6qjldwmeOtG/YVH396Yqwv9IWP/AC06N/3DpP8A&#xA;smxV36Qsf+WnRv8AuHSf9k2Ku/SFj/y06N/3DpP+ybFXfpCx/wCWnRv+4dJ/2TYq79IWP/LTo3/c&#xA;Ok/7JsVV7KeO7u4rayuNHa4kYCICwdTy6ijG3AGKswcanBod6damtpJQrsHEbNCI+I/vI+JLb1rt&#xA;irCP0hY/8tOjf9w6T/smxV36Qsf+WnRv+4dJ/wBk2Ku/SFj/AMtOjf8AcOk/7JsVd+kLH/lp0b/u&#xA;HSf9k2Ku/SFj/wAtOjf9w6T/ALJsVRWnJ+lrg2unyaNNMFLlfqDL8IoCavAo74qyzQ7DWrBzFevZ&#xA;izCHhFaR+nRywNacVFOuKsOur+yF1MDc6QCJGBD2EjN1P2j9XNTiql+kLH/lp0b/ALh0n/ZNirv0&#xA;hY/8tOjf9w6T/smxV36Qsf8Alp0b/uHSf9k2Ku/SFj/y06N/3DpP+ybFXfpCx/5adG/7h0n/AGTY&#xA;qzTQovLuoW0d7p9taySQMEeaK3EVJlVWYryjRh9rFU8xVhn/AJV//wAFv/sexVOfJn/KH6D/ANs2&#xA;z/5MR4q7zVIItLDG4a0/eqPUSAXB6Nt6bEffirDfrif9Xib/ALhaf81Yq764n/V4m/7haf8ANWKu&#xA;+uJ/1eJv+4Wn/NWKu+uJ/wBXib/uFp/zVirvrif9Xib/ALhaf81Yqr2U0lxdwwW2tSpNK4VGOmot&#xA;CdvtctsVZfbaXqkdhc2t3qZu5pwRFO0Kr6VRT7HIhvpxVK/8J6x/1ek/6QYv+asVd/hPWP8Aq9J/&#xA;0gxf81Yqn8OnWscMccsUUrqoV5PTUcmAoWpTauKr/qNj/wAs0X/AL/TFXfUbH/lmi/4Bf6Yqvjtr&#xA;aFucUKRt0qqgGn0DFVXFXnF1eILmYfpeVKO3wjTUam525ct8VUvrif8AV4m/7haf81Yq764n/V4m&#xA;/wC4Wn/NWKu+uJ/1eJv+4Wn/ADVirvrif9Xib/uFp/zVirvrif8AV4m/7haf81YqmmgXU8+owW0G&#xA;szSJy9R4DYrCjhRVgXDbVAxVnGKsM/8AKv8A/gt/9j2Kpz5M/wCUP0H/ALZtn/yYjxV3mppV0sGJ&#xA;rtG9Vd7Cvq0o3gR8PjirDfWvv9/+Yfub/qpirvWvv9/+Yfub/qpiqvZR317dxWv1zXoPVbj6kvJU&#xA;X3Y88VT/APwjff8AV/1H/ka3/NWKu/wjff8AV/1H/ka3/NWKu/wjff8AV/1H/ka3/NWKokaZcaVo&#xA;9+j395eu6Myyci0yUWlIvi64qxD1r7/f/mH7m/6qYq4TXw/3f5h+kN/1UxV3rX3+/wDzD9zf9VMV&#xA;d619/v8A8w/c3/VTFXetff7/APMP3N/1UxVH6RrFxpczyzQ63fh14hLhCyqag8hVzvtirPcVecXU&#xA;t79ZmpPr4HqNQRhuHU/Z+Pp4Yqpetff7/wDMP3N/1UxV3rX3+/8AzD9zf9VMVd619/v/AMw/c3/V&#xA;TFXetff7/wDMP3N/1UxV3rX3+/8AzD9zf9VMVTXy5b3d5qCs95rEa29JSl4WWOQAgcD8ZrirN8VY&#xA;Z/5V/wD8Fv8A7HsVTnyZ/wAofoP/AGzbP/kxHiqN1W+n0+1E9vbNePyC+kjBTQ13q3yxVJv8U6p/&#xA;1Y5v+Ryf0xV3+KdU/wCrHL/yOT/mnFXf4p1T/qxzf8jk/pirv8U6p/1Y5v8Akcn9MVd/inVP+rHN&#xA;/wAjk/piqa6Xqj31u013b/UHVyoikdWJACnlUU8cVVdUHqaZchVeXlE1FiYI7VH7D70PvirA/qcn&#xA;/Vu1P/pNX/mjFXfU5P8Aq3an/wBJq/8ANGKu+pyf9W7U/wDpNX/mjFXfU5P+rdqf/Sav/NGKu+py&#xA;f9W7U/8ApNX/AJoxV31OT/q3an/0mr/zRirONHvrm/tjJc2j2RRuCrIwcsAB8VVAxVKJfLehvK7v&#xA;qVwrMxJUXQABJ6UxVb/hnQf+rpc/9JYxV3+GdB/6ulz/ANJYxVHaVYaRpEkkkF+0plAUiedXAoa7&#xA;dMVTaO5tpm4RTJI3WisCafQcVVcVdirsVYZ/5V//AMFv/sexVOfJn/KH6D/2zbP/AJMR4q15st0u&#xA;dKEbwxXA9VTwmm9Bejb8+S7+2KsK/RNv/wBW6x/7iI/6q4q79E2//Vusf+4iP+quKu/RNv8A9W6x&#xA;/wC4iP8Aqrirv0Tb/wDVusf+4iP+quKu/RNv/wBW6x/7iI/6q4q79E2//Vusf+4iP+quKs7uUsn0&#xA;Ca1sjFcW0VuYEX1QEKovEK0vLbbvXFWCfom3/wCrdY/9xEf9VcVd+ibf/q3WP/cRH/VXFXfom3/6&#xA;t1j/ANxEf9VcVd+ibf8A6t1j/wBxEf8AVXFXfom3/wCrdY/9xEf9VcVd+ibf/q3WP/cRH/VXFWae&#xA;UwI9LNuIoYBDIwWOCYTji1GqXDNuSTtirEbrSoGupmOn2TEyManUApO53I9XbFVH9E2//Vusf+4i&#xA;P+quKu/RNv8A9W6x/wC4iP8Aqrirv0Tb/wDVusf+4iP+quKozTBLo9ybuwsbGOUqUqdQVvhNCdmk&#xA;PhiqcJ5j8wyOscdrYO7kKqreRkknYAAPirLMVdirDP8Ayr//AILf/Y9iqc+TP+UP0H/tm2f/ACYj&#xA;xVb5tKLpQLrasPVXa+5el0b/AH2QeWKsL9S2/wB9aB98/wDzVirvUtv99aB98/8AzVirvUtv99aB&#xA;98//ADVirvUtv99aB98//NWKu9S2/wB9aB98/wDzViq+GSxM0f1iLQhDyX1Chn5cK/Fxq3WmKs2l&#xA;ttOtdAuP0bHAlrLC0yiSvoMHWvJ+O/EjFWDepbf760D75/8AmrFXepbf760D75/+asVd6lt/vrQP&#xA;vn/5qxV3qW3++tA++f8A5qxV3qW3++tA++f/AJqxV3qW3++tA++f/mrFWU+Trq1K3FqhsUmJ9X07&#xA;DnQoKKWb1Ce5xVjd1Jb/AFqasWhV9Rvtmfl1P2qN18cVUvUtv99aB98//NWKu9S2/wB9aB98/wDz&#xA;VirvUtv99aB98/8AzVirvUtv99aB98//ADViq+G5jglSeFNBSSJg6MDPUMpqCPi8cVZvo+vWeopF&#xA;btdQS3xTlJHblitR148t6Yqm2KsM/wDKv/8Agt/9j2Kpz5M/5Q/Qf+2bZ/8AJiPFVvm14Y9KDTzQ&#xA;W6eqo53MH1hK0bb0+D7+9MVYX9a03/q5aZ/3Cz/2T4q761pv/Vy0z/uFn/snxV31rTf+rlpn/cLP&#xA;/ZPirvrWm/8AVy0z/uFn/snxV31rTf8Aq5aZ/wBws/8AZPiqK062j1a4Nrp97pk0wUuV/Rqr8IoC&#xA;avAo74qzbUkit9FuIyYoIorcrVo+cSKq0/ugpqo/lpirz/61pv8A1ctM/wC4Wf8AsnxV31rTf+rl&#xA;pn/cLP8A2T4q761pv/Vy0z/uFn/snxV31rTf+rlpn/cLP/ZPirvrWm/9XLTP+4Wf+yfFXfWtN/6u&#xA;Wmf9ws/9k+Ksg8nS2ct/P6F1Z3LiHcW1n9WYAsvV/SjqPbFUkurnThdTBtQ01SJGqG0zkQanYt9X&#xA;NT74qpfWtN/6uWmf9ws/9k+Ku+tab/1ctM/7hZ/7J8Vd9a03/q5aZ/3Cz/2T4q761pv/AFctM/7h&#xA;Z/7J8Vd9a03/AKuWmf8AcLP/AGT4qnXlSW0l1alveWVwyxuSlvZfV3psK+p6Kbb9K4qzbFWGf+Vf&#xA;/wDBb/7HsVTnyZ/yh+g/9s2z/wCTEeKtebJjBpQdbiW0PqqPUhiEzdG24Fk2964qwr9JSf8AV4vv&#xA;+kFf+q+Ku/SUn/V4vv8ApBX/AKr4q79JSf8AV4vv+kFf+q+Ku/SUn/V4vv8ApBX/AKr4q79JSf8A&#xA;V4vv+kFf+q+Kq1prLW11DO+q30qRurPF9SVeaggshInNK9MVZ5qstNJuplkaH9yzCRF5su1ahKip&#xA;9q4q89/SUn/V4vv+kFf+q+Ku/SUn/V4vv+kFf+q+Ku/SUn/V4vv+kFf+q+Ku/SUn/V4vv+kFf+q+&#xA;Ku/SUn/V4vv+kFf+q+Ku/SUn/V4vv+kFf+q+Kso8oR3M5l1FtRmu4Byg9GeAQkP+7fntI/Y0xVjt&#xA;1qMi3Uy/pe9WkjDiLJSBudgfX3xVR/SUn/V4vv8ApBX/AKr4qyC08vaxe2sV3Fr0ipOgdQ9qoYBh&#xA;Xceriqt/hTXP+r+//SMv/VXFXf4U1z/q/v8A9Iy/9VcVVIPLGsxTxyS640qI6s0Zt1AYA1K19Q9c&#xA;VZGsUaGqIqnxAAxVfirDP/Kv/wDgt/8AY9iqI8o6jOnlTRECpRdPtAKg9oY/fKZZSC3DECE3/Sc/&#xA;8qfcf+asHjFfCDv0nP8Ayp9x/wCasfGK+EHfpOf+VPuP/NWPjFfCDX6Tn/lT7j/zVj40l8IN/pOf&#xA;+VPuP/NWPjFfCDv0nP8Ayp9x/wCasfGK+EHfpOf+VPuP/NWPjFfCDv0nP/Kn3H/mrHxivhB36Tn/&#xA;AJU+4/8ANWPjFfCDv0nP/Kn3H/mrHxivhB36Tn/lT7j/AM1Y+MV8IO/Sc/8AKn3H/mrHxivhB36T&#xA;n/lT7j/zVj4xXwg79Jz/AMqfcf8AmrHxivhB36Tn/lT7j/zVj4xXwg79Jz/yp9x/5qx8Yr4Qd+k5&#xA;/wCVPuP/ADVj4xXwg79Jz/yp9x/5qx8Yr4Qd+k5/5U+4/wDNWPjFfCDv0nP/ACp9x/5qx8Yr4Qd+&#xA;k5/5U+4/81Y+MV8IO/Sc/wDKn3H/AJqx8Yr4Qd+k5/5U+4/81Y+MV8IMR+vTf8rW9ai8v8PcKUNK&#xA;fXK+OS8Q8No8McVIzyp/yi+jf8wFr/yZTKpcy2R5BNsilLtdvpbDTna2Ki7nZbe15Up60p4qTXsv&#xA;2j7DJRFlBNBU0nUY9U0+C9SgaRAZEBrwcbOh69GBGAiioNhEyfbh/wBc/wDEHxSx3V9LS51GaY6Z&#xA;NcluP71JlRWoqjZT4UplkZUObXKNnkgv0JH/ANWW4/6SEyXH5o4PJOdAtms/VhWwks43+MtJKslW&#xA;G1Nsrmb6soCuidZBm7FXYq7FXYq7FUuur/UYJ3ig057iNacZVkRQ1QCdjvtkhEHqxJPco/pTVv8A&#xA;q0Sf8jUw8Me9eI9yIsr2/uJvTubB7VOJPqNIrCvhRcBAHVIJPRH5FLsVdirsVdirsVdirFP/ACqH&#xA;/bg/7HMn/B8WP8aa+VP+UX0b/mAtf+TKYJcymPII68vYbCITThypYJ+7RpDVv8lAxpgAtJNMI1Sz&#xA;03WNTNxq+qXE9pG9VthZTrGFBYcEYcugpyanj/sbASBsGsgEsq0LTbKwill02i2V6UuIIhGUMYZF&#xA;BHxfFQ05UIFKnISJLOIpMZPtw/65/wCIPgSxnWrWGTUpnaztpieNXkujEx+BeqeotPuy2B25tUhu&#xA;gfqVv/1brP8A6TT/ANVsPEe9FeTvqVv/ANW6z/6TT/1Wx4j3rXk76lb/APVus/8ApNP/AFWx4j3r&#xA;Xk76lb/9W6z/AOk0/wDVbHiPeteTvqVv/wBW6z/6TT/1Wx4j3rXk76lb/wDVus/+k0/9VseI9615&#xA;Jnpj6pawNFpmn2/pFyzcLj1ByIA6l27AZGVHmWUbHIMkFaDlsabjKmxjmraTNdahLOulxXIfjSZp&#xA;3QtRVH2Q4ApSmWxlQ5tco2eSD/QNx/1ZYf8ApJf/AKqYePzRweTv0Dcf9WWH/pJf/qpjx+a8Hk79&#xA;A3H/AFZYf+kl/wDqpjx+a8HkmFh5a0+WFm1DT1t5QxAVJpGBWg3r6njXIyyHoWQxjqET/hbQf+WX&#xA;/kpJ/wA14PFknw4u/wALaD/yy/8AJST/AJrx8WS+HF3+FtB/5Zf+Skn/ADXj4sl8OKb5Bk7FWKf+&#xA;VQ/7cH/Y5k/4Pix/jTXyp/yi+jf8wFr/AMmUwS5lMeQTUgEEHocilLf8P6V/vp9xQ0mlFe+9JBU5&#xA;LiKOENHy3o5IJgbYBQPVlpQUHT1KfsjHiK8IRkFpFaxQwW44RwkkAknqG8fdsFppSuNH0y6mae4t&#xA;kklenJmG5oKD8BhEyEGIKn+gNG/5Y4/ux45d6OCLv0Bo3/LHH92PHLvXgi79AaN/yxx/djxy714I&#xA;u/QGjf8ALHH92PHLvXgi79AaN/yxx/djxy714Iu/QGjf8scf3Y8cu9eCKKtbK1skMdpEsKseRC9z&#xA;0rgJJSAAr4EuxV2KuxV2KuxV2KuxV2KuxV2KsU/8qh/24P8Ascyf8HxY/wAaa+VP+UX0b/mAtf8A&#xA;kymCXMpjyCbZFLsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirFP/ACqH&#xA;/bg/7HMn/B8WP8b/AP/Z</xapGImg:image>
+               </rdf:li>
+            </rdf:Alt>
+         </xap:Thumbnails>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:dc="http://purl.org/dc/elements/1.1/">
+         <dc:format>application/pdf</dc:format>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+         <pdf:Producer>Adobe PDF Library 8.0</pdf:Producer>
+         <pdf:Trapped>False</pdf:Trapped>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+<?xpacket end="r"?>
+endstream
+endobj
+%--------------------------------------------------------------------------------------------------
+5 0 obj   % PdfSharp.Pdf.PdfDocumentInformation
+<<
+  /CreationDate (D:20081008152734-05'00')
+  /Creator (Adobe InDesign CS3 \(5.0.3\))
+  /ModDate (D:20140730134749-05'00')
+  /Producer (PDFsharp 0.9.653 \(www.pdfsharp.com\) \(Original: Adobe PDF Library 8.0\))
+  /Trapped /False
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+6 0 obj   % PdfSharp.Pdf.Advanced.PdfCatalog
+<<
+  /Metadata 4 0 R
+  /PageLabels 1 0 R
+  /Pages 3 0 R
+  /Type /Catalog
+  /ViewerPreferences
+  <<
+    /Direction /L2R
+  >>
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+7 0 obj   % PdfSharp.Pdf.PdfPage
+<<
+  /ArtBox [0 0 585 765]
+  /BleedBox [0 0 585 765]
+  /Contents [12 0 R 13 0 R 17 0 R 18 0 R 19 0 R 20 0 R 22 0 R 23 0 R 51 0 R]
+  /CropBox [0 0 585 765]
+  /MediaBox [0 0 585 765]
+  /Parent 3 0 R
+  /Resources
+  <<
+    /ColorSpace
+    <<
+      /CS0 11 0 R
+      /CS1 11 0 R
+    >>
+    /ExtGState
+    <<
+      /GS0 49 0 R
+      /GS1 50 0 R
+      /GS2 52 0 R
+    >>
+    /Font
+    <<
+      /F0 54 0 R
+      /T1_0 8 0 R
+      /T1_1 9 0 R
+      /T1_2 10 0 R
+      /T1_3 14 0 R
+      /T1_4 15 0 R
+      /T1_5 16 0 R
+      /T1_6 21 0 R
+    >>
+    /ProcSet [/PDF /Text /ImageC]
+    /XObject
+    <<
+      /Im0 26 0 R
+    >>
+  >>
+  /Rotate 0
+  /TrimBox [0 0 585 765]
+  /Type /Page
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+8 0 obj   % PdfSharp.Pdf.PdfDictionary
+<<
+  /BaseFont /TYEIFP+Frutiger-Light
+  /Encoding 30 0 R
+  /FirstChar 30
+  /FontDescriptor 28 0 R
+  /LastChar 151
+  /Subtype /Type1
+  /ToUnicode 29 0 R
+  /Type /Font
+  /Widths [556 556 278 0 0 0 0 0 0 0 278 278 0 0 278 333 278 0 556 556 0 556 0 556 0 0 0 0 278 0 0 0 0 0 0 667 0 667 667 0 444 722 0 222 0 0 444 889 0 722 500 0 0 500 500 0 0 944 0 611 0 0 0 0 0 0 0 500 556 444 556 500 333 556 556 222 0 500 222 833 556 556 556 556 333 389 333 556 444 778 444 444 444 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 278 0 0 0 0 1000]
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+9 0 obj   % PdfSharp.Pdf.PdfDictionary
+<<
+  /BaseFont /SQUCRR+Frutiger-Bold
+  /Encoding /WinAnsiEncoding
+  /FirstChar 32
+  /FontDescriptor 32 0 R
+  /LastChar 117
+  /Subtype /Type1
+  /ToUnicode 33 0 R
+  /Type /Font
+  /Widths [278 0 0 0 0 0 0 0 0 0 0 0 0 0 278 0 0 0 556 0 0 0 0 556 556 0 0 0 0 0 0 500 0 722 0 611 0 556 500 0 0 278 0 0 500 0 0 778 0 0 611 556 0 0 0 1000 667 667 0 0 0 0 0 0 0 556 611 444 611 556 0 0 611 278 0 556 278 889 611 611 611 0 389 444 389 611]
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+10 0 obj   % PdfSharp.Pdf.PdfDictionary
+<<
+  /BaseFont /SQUCRR+Frutiger-BoldCn
+  /Encoding /WinAnsiEncoding
+  /FirstChar 32
+  /FontDescriptor 35 0 R
+  /LastChar 32
+  /Subtype /Type1
+  /ToUnicode 36 0 R
+  /Type /Font
+  /Widths [260]
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+11 0 obj   % PdfSharp.Pdf.PdfArray
+[
+  /ICCBased 25 0 R
+]
+endobj
+%--------------------------------------------------------------------------------------------------
+12 0 obj   % PdfSharp.Pdf.Advanced.PdfContent
+<<
+  /Length 3614
+>>
+stream
+q
+q
+0 0 585 765 re
+W n
+BT
+/CS0 cs 0.137 0.122 0.125  scn
+/GS0 gs
+/T1_0 1 Tf
+9 0 0 9 39.6 604.9968 Tm
+[(M)10(o)10(u)10(t)10(h)10( )10(s)10(o)10(r)28(e)10(s)10(\227)10(t)10(h)10(e)10(y)10( )10(c)10(a)10(n)10( )10(b)10(e)10( )10(p)10(a)10(i)10(n)10(f)10(u)10(l)10( )10(a)10(n)10(d )]TJ
+0 -1.222 TD
+[(i)10(r)10(r)10(i)10(t)10(a)10(t)10(i)10(n)10(g)10( )10(w)10(h)10(e)10(n)10( )10(y)10(o)10(u)10( )10(e)10(a)10(t)10( )10(c)10(e)10(r)10(t)10(a)10(i)10(n)10( )10(f)10(o)10(o)10(d)10(s)10(, )]TJ
+T*
+[(w)10(h)10(e)10(n)10( )10(y)10(o)10(u)10( )10(b)10(u)10(m)10(p)10( )10(t)10(h)10(e)10(m)10( )10(w)10(i)10(t)10(h)10( )10(y)10(o)10(u)10(r)10( )10(t)10(o)10(n)10(g)10(u)10(e )]TJ
+-0.01 Tc 0 -1.222 TD
+[(or teeth, or even when you try to smile.)-10( )]TJ
+0 Tc 0 -1.222 TD
+[(T)10(h)10(e)10(y)10( )10(c)10(a)10(n)10( )10(b)10(e)10( )10(c)10(a)10(u)10(s)10(e)10(d)10( )10(b)10(y)10( )10(i)10(l)10(l)10(-)10(\037)10(t)10(t)10(i)10(n)10(g)10( )10(d)10(e)10(n)10(t)10(u)10(r)28(e)10(s)10(, )]TJ
+T*
+[(b)10(r)10(a)10(c)10(e)10(s)10(,)10( )10(t)10(h)10(e)10( )10(s)10(h)10(a)10(r)10(p)10( )10(e)10(d)10(g)10(e)10( )10(o)10(f)10( )10(a)10( )10(b)10(r)28(o)10(k)10(e)10(n)10( )10(t)10(o)10(o)10(t)10(h)10(, )]TJ
+T*
+[(b)10(a)10(c)10(t)10(e)10(r)10(i)10(a)10(,)10( )10(a)10( )10(f)10(u)10(n)10(g)10(a)10(l)10( )10(o)10(r)10( )10(v)10(i)10(r)10(a)10(l)10( )10(i)10(n)10(f)10(e)10(c)10(t)10(i)10(o)10(n)10(,)10( )10(o)10(r)10( )10(t)10(h)10(e)10(y )]TJ
+0 -1.222 TD
+[(c)10(a)10(n)10( )10(b)10(e)10( )10(a)10( )10(s)10(y)10(m)10(p)10(t)10(o)10(m)10( )10(o)10(f)10( )10(a)10( )10(d)10(i)10(s)10(e)10(a)10(s)10(e)10( )10(o)10(r)10( )10(d)10(i)10(s)10(o)10(r)28(d)10(e)10(r)102(. )]TJ
+/T1_1 1 Tf
+10 0 0 10 39.6 505.9968 Tm
+[(What ar)18(e mouth sor)18(es?)]TJ
+/T1_0 1 Tf
+9 0 0 9 39.6 494.9968 Tm
+[(Mouth sor)18(es ar)18(e swollen spots or sor)18(es in )]TJ
+0 -1.222 TD
+[(your )3(mouth, )3(on )3(your )3(lips, )3(on )3(your )3(tongue, )]TJ
+T*
+[(or on the skin surr)18(ounding your mouth. )]TJ
+0 -1.222 TD
+[(Ther)18(e ar)18(e several types of mouth sor)18(es, )]TJ
+0 -1.222 TD
+(including:)Tj
+/T1_1 1 Tf
+9 0 2.0778 9 39.6 428.9968 Tm
+[(Canker sor)18(es)]TJ
+9 0 0 9 93.448 428.9968 Tm
+(.)Tj
+/T1_2 1 Tf
+( )Tj
+/T1_0 1 Tf
+[(Canker sor)18(es ar)18(e small, )]TJ
+-5.983 -1.222 Td
+[(white ar)18(eas of swelling or sor)18(eness that )]TJ
+T*
+[(ar)18(e surr)18(ounded by r)18(edness. Canker sor)18(es )]TJ
+0 -1.222 TD
+[(ar)18(e not contagious. The cause of canker )]TJ
+0 -1.222 TD
+[(sor)18(es is uncertain, but some r)18(esear)18(ch sug)]TJ
+(-)Tj
+T*
+(gests that immune system de\037ciencies, )Tj
+T*
+(bacteria, or viruses might be the culprits. )Tj
+0 -1.222 TD
+[(Smoking, str)18(ess, trauma, allergies, certain )]TJ
+0 -1.222 TD
+[(types of foods \(chocolate, caf)18(feine, or )]TJ
+T*
+(acidic foods\), or vitamin de\037ciencies also )Tj
+T*
+[(may make you mor)18(e susceptible to canker )]TJ
+T*
+[(sor)18(es. Canker sor)18(es usually heal within )]TJ
+0 -1.222 TD
+[(one week, but they can r)18(ecur)92(. And, while )]TJ
+0 -1.222 TD
+[(ther)18(e is no cur)18(e for canker sor)18(es, over)55(-)]TJ
+T*
+(the-counter topical ointments or gels that )Tj
+T*
+[(pr)18(ovide temporary pain r)18(elief ar)18(e avail)]TJ
+(-)Tj
+0 -1.222 TD
+[(able. Antimicr)18(obial mouth rinses also may )]TJ
+0 -1.222 TD
+[(help to r)18(elieve pain.)]TJ
+/T1_1 1 Tf
+9 0 2.0778 9 39.6 219.9968 Tm
+[(Cold sor)18(es)]TJ
+9 0 0 9 82.936 219.9968 Tm
+(.)Tj
+/T1_0 1 Tf
+( Often, people confuse )Tj
+-4.815 -1.222 Td
+[(canker sor)18(es with cold sor)18(es \(also called )]TJ
+T*
+[(fever blisters\). Cold sor)18(es ar)18(e gr)18(oups of )]TJ
+0 -1.222 TD
+(often-painful blisters \037lled with \036uid that )Tj
+ 
+endstream
+endobj
+%--------------------------------------------------------------------------------------------------
+13 0 obj   % PdfSharp.Pdf.Advanced.PdfContent
+<<
+  /Length 3660
+>>
+stream
+0 -1.222 TD
+[(appear ar)18(ound the lips and sometimes )]TJ
+T*
+(under the nose. A person usually experi)Tj
+(-)Tj
+T*
+[(ences his or her \037rst cold sor)18(e infection )]TJ
+0 -1.222 TD
+(in childhood. Once a person has had )Tj
+0 -1.222 TD
+[(a cold sor)18(e, the virus stays in the body )]TJ
+T*
+[(and can become active thr)18(oughout the )]TJ
+19.133 53.778 Td
+[(person\222)111(s life. Cold sor)18(es ar)18(e extr)18(emely )]TJ
+T*
+[(contagious and usually ar)18(e caused by )]TJ
+0 -1.222 TD
+(herpes simplex virus. Infection may )Tj
+0 -1.222 TD
+[(be br)18(ought on by decr)18(eased immune )]TJ
+T*
+[(r)18(esponse, lack of sleep, str)18(ess, or )]TJ
+T*
+[(trauma. Cold sor)18(e blisters usually heal )]TJ
+0 -1.222 TD
+[(within seven to 10 days. While ther)18(e )]TJ
+0 -1.222 TD
+[(is no cur)18(e for cold sor)18(es, non-pr)18(escription )]TJ
+T*
+(topical anesthetics for temporary pain )Tj
+T*
+[(r)18(elief ar)18(e available. Y)92(our dentist or physi)]TJ
+(-)Tj
+T*
+[(cian also might pr)18(escribe an antiviral drug )]TJ
+0 -1.222 TD
+[(to r)18(educe the infection. )]TJ
+/T1_1 1 Tf
+9 0 2.0778 9 211.8 461.9968 Tm
+(Leukoplakia)Tj
+9 0 0 9 262.8208 461.9968 Tm
+(.)Tj
+/T1_0 1 Tf
+[( )4(Leukoplakia )4(appears )4(on )4(the )]TJ
+-5.669 -1.222 Td
+(inner cheeks, gums, or tongue and often )Tj
+0 -1.222 TD
+[(appears as a thick, white-color)18(ed patch. It )]TJ
+0 -1.222 TD
+(is associated with smoking or smokeless )Tj
+0 -1.222 TD
+(tobacco use. Other causes can include )Tj
+T*
+[(poorly \037tting dentur)18(es, br)18(oken teeth, and )]TJ
+T*
+[(cheek chewing. It is extr)18(emely important )]TJ
+0 -1.222 TD
+[(to r)18(eport any signs of leukoplakia to your )]TJ
+0 -1.222 TD
+(dentist or physician because an estimated )Tj
+T*
+[(5 per)18(cent of cases of leukoplakia lead )]TJ
+T*
+[(to cancer)92(. Leukoplakia usually dissipates )]TJ
+T*
+(after the behavior causing the leukoplakia )Tj
+0 -1.222 TD
+[(is ceased \(stopping smoking or r)18(emoving )]TJ
+0 -1.222 TD
+[(ill-\037tting dentur)18(es, for example\). Y)92(our )]TJ
+T*
+[(dentist will check your healing pr)18(ogr)18(ess )]TJ
+T*
+(every few months depending on the type, )Tj
+0 -1.222 TD
+[(ar)18(ea of your mouth, and size of the )]TJ
+( )Tj
+0 -1.222 TD
+[(af)18(fected ar)18(ea.)]TJ
+/T1_1 1 Tf
+-0.01 Tc 9 0 2.0778 9 211.8 252.9968 Tm
+(Candidiasis)Tj
+0 Tc 9 0 0 9 258.3114 252.9968 Tm
+(.)Tj
+/T1_0 1 Tf
+0.268 0 Td
+[( )10(C)10(a)10(n)10(d)10(i)10(d)10(i)10(a)10(s)10(i)10(s)10( )10(i)10(s)10( )10(a)10( )10(f)10(u)10(n)10(g)10(a)10(l )]TJ
+-5.436 -1.222 Td
+[(i)10(n)10(f)10(e)10(c)10(t)10(i)10(o)10(n)10( )10(t)10(h)10(a)10(t)10( )10(a)10(l)10(s)10(o)10( )10(i)10(s)10( )10(c)10(a)10(l)10(l)10(e)10(d)10( )10(o)10(r)10(a)10(l)10( )10(t)10(h)10(r)10(u)10(s)10(h)10(. )]TJ
+T*
+[(C)10(a)10(n)10(d)10(i)10(d)10(i)10(a)10(s)10(i)10(s)10( )10(a)10(p)10(p)10(e)10(a)10(r)10(s)10( )10(a)10(s)10( )10(y)10(e)10(l)10(l)10(o)10(w)10(-)10(w)10(h)10(i)10(t)10(e)10( )10(o)10(r )]TJ
+0 -1.222 TD
+[(r)28(e)10(d)10( )10(p)10(a)10(t)10(c)10(h)10(e)10(s)10( )10(i)10(n)10( )10(y)10(o)10(u)10(r)10( )10(m)10(o)10(u)10(t)10(h)10(.)10( )10(O)10(r)10(a)10(l)10( )10(t)10(h)10(r)10(u)10(s)10(h)10( )10(i)10(s )]TJ
+-0.01 Tc 0 -1.222 TD
+[(most common in newbor)-18(ns or in people)-10( )]TJ
+T*
+[(whose immune systems ar)18(e not function)]TJ
+0 Tc (-)Tj
+T*
+[(i)10(n)10(g)10( )10(p)10(r)28(o)10(p)10(e)10(r)10(l)10(y)102(.)10( )10(P)10(e)10(o)10(p)10(l)10(e)10( )10(w)10(h)10(o)10( )10(h)10(a)10(v)10(e)10( )10(d)10(r)10(y)10( )10(m)10(o)10(u)10(t)10(h )]TJ
+0 -1.222 TD
+[(o)10(r)10( )10(w)10(h)10(o)10( )10(a)10(r)28(e)10( )10(t)10(a)10(k)10(i)10(n)10(g)10( )10(a)10(n)10(t)10(i)10(b)10(i)10(o)10(t)10(i)10(c)10(s)10( )10(a)10(l)10(s)10(o)10( )10(m)10(a)10(y)10( )10(b)10(e )] 
+endstream
+endobj
+%--------------------------------------------------------------------------------------------------
+14 0 obj   % PdfSharp.Pdf.PdfDictionary
+<<
+  /BaseFont /SQUCRR+Frutiger-Black
+  /Encoding /WinAnsiEncoding
+  /FirstChar 73
+  /FontDescriptor 38 0 R
+  /LastChar 117
+  /Subtype /Type1
+  /ToUnicode 39 0 R
+  /Type /Font
+  /Widths [334 0 0 0 0 0 0 0 0 667 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 500 0 611 0 0 0 0 0 0 0 0 0 668 0 0 444 500 0 667]
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+15 0 obj   % PdfSharp.Pdf.PdfDictionary
+<<
+  /BaseFont /RIKWDT+Frutiger-LightCn
+  /Encoding /WinAnsiEncoding
+  /FirstChar 32
+  /FontDescriptor 41 0 R
+  /LastChar 32
+  /Subtype /Type1
+  /ToUnicode 42 0 R
+  /Type /Font
+  /Widths [240]
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+16 0 obj   % PdfSharp.Pdf.PdfDictionary
+<<
+  /BaseFont /RIKWDT+Frutiger-BoldItalic
+  /Encoding /WinAnsiEncoding
+  /FirstChar 32
+  /FontDescriptor 44 0 R
+  /LastChar 119
+  /Subtype /Type1
+  /ToUnicode 45 0 R
+  /Type /Font
+  /Widths [278 0 0 0 0 0 0 0 0 0 0 0 0 0 278 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 556 0 0 611 0 0 611 0 0 0 0 0 0 0 611 0 0 389 0 0 0 0 889]
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+17 0 obj   % PdfSharp.Pdf.Advanced.PdfContent
+<<
+  /Length 3580
+>>
+stream
+TJ
+0 -1.222 TD
+[(s)10(u)10(s)10(c)10(e)10(p)10(t)10(i)10(b)10(l)10(e)10(.)10( )10(I)10(t)10( )10(i)10(s)10( )10(f)10(o)10(u)10(n)10(d)10( )10(i)10(n)10( )10(p)10(e)10(o)10(p)10(l)10(e)10( )10(w)10(h)10(o)10( )10(w)10(e)10(a)10(r )]TJ
+T*
+[(d)10(e)10(n)10(t)10(u)10(r)28(e)10(s)10(,)10( )10(a)10(s)10( )10(w)10(e)10(l)10(l)10(.)10( )10(C)10(a)10(n)10(d)10(i)10(d)10(i)10(a)10(s)10(i)10(s)10( )10(m)10(a)10(y)10( )10(f)10(o)10(r)10(m)10( )10(a)10(t )]TJ
+T*
+[(t)10(h)10(e)10( )10(c)10(o)10(r)-8(n)10(e)10(r)10(s)10( )10(o)10(f)10( )10(t)10(h)10(e)10( )10(m)10(o)10(u)10(t)10(h)10( )10(w)10(i)10(t)10(h)10( )10(p)10(o)10(o)10(r)65(-)10(\037)10(t)10(t)10(i)10(n)10(g )]TJ
+-0.01 Tc T*
+[(dentur)18(es. In these individuals, outbr)18(eaks of)-10( )]TJ
+0 -1.222 TD
+[(oral thrush can be pr)18(evented by cleaning)-10( )]TJ
+19.133 45.222 Td
+[(the dentur)18(es and by r)18(emoving them at)-10( )]TJ
+0 Tc T*
+[(n)10(i)10(g)10(h)10(t)10(,)10( )10(i)10(f)10( )10(r)28(e)10(c)10(o)10(m)10(m)10(e)10(n)10(d)10(e)10(d)10( )10(b)10(y)10( )10(t)10(h)10(e)10(i)10(r)10( )10(d)10(e)10(n)10(t)10(i)10(s)10(t)10(.)10( )10(I)10(f )]TJ
+-0.01 Tc 0 -1.222 TD
+(antibiotics cause the condition, your physi)Tj
+0 Tc (-)Tj
+-0.01 Tc T*
+[(cian may consider r)18(educing the dosage or)-10( )]TJ
+0 Tc T*
+[(c)10(h)10(a)10(n)10(g)10(i)10(n)10(g)10( )10(t)10(h)10(e)10( )10(t)10(r)28(e)10(a)10(t)10(m)10(e)10(n)10(t)10(.)10( )10(F)10(o)10(r)10( )10(t)10(h)10(o)10(s)10(e)10( )10(w)10(i)10(t)10(h )]TJ
+-0.01 Tc 0 -1.222 TD
+[(dry mouth, saliva substitutes ar)18(e available.)-10( )]TJ
+0 -1.222 TD
+[(Antifungal medications also ar)18(e available.)]TJ
+/T1_1 1 Tf
+0 Tc 9 0 2.0778 9 384 439.9968 Tm
+(Oral cancer)Tj
+9 0 0 9 431.5105 439.9968 Tm
+(.)Tj
+/T1_0 1 Tf
+( Oral cancer often starts as a )Tj
+-5.279 -1.222 Td
+[(tiny white or r)18(ed spot or sor)18(e. Sometimes )]TJ
+T*
+[(oral cancer pr)18(esents itself as a sor)18(e that )]TJ
+0 -1.222 TD
+[(bleeds easily or does not heal. Or)92(, it can )]TJ
+0 -1.222 TD
+[(be a lump or a thick or r)18(ough spot. It can )]TJ
+T*
+[(af)18(fect any ar)18(ea of the mouth, including )]TJ
+T*
+[(the lips, gums, tongue, and har)18(d or soft )]TJ
+0 -1.222 TD
+[(palate. If you have pain, tender)-18(ness, or )]TJ
+0 -1.222 TD
+[(numbness anywher)18(e in the mouth or on )]TJ
+T*
+(the lips that does not go away after a )Tj
+T*
+(week, talk to your dentist. Oral cancer )Tj
+T*
+[(most often af)18(fects people who use tobac)]TJ
+(-)Tj
+0 -1.222 TD
+[(co. )2(If )2(you )2(use )2(tobacco, )2(talk )2(to )2(your )2(dentist )]TJ
+0 -1.222 TD
+(or physician about tobacco cessation )Tj
+T*
+[(tr)18(eatment plans. Also, your dentist can )]TJ
+T*
+[(check your mouth \(and pr)18(obably does\) for )]TJ
+0 -1.222 TD
+(oral cancer very easily and quickly during )Tj
+0 -1.222 TD
+[(your r)18(outine cleaning and exam. Ask your )]TJ
+T*
+(dentist if he or she performs oral cancer )Tj
+T*
+[(scr)18(eenings to be sur)18(e.)]TJ
+/T1_1 1 Tf
+10 0 0 10 384 208.9968 Tm
+[(Should I be concer)-18(ned?)]TJ
+/T1_0 1 Tf
+9 0 0 9 384 197.9968 Tm
+[(Mouth sor)18(es ar)18(e common and rar)18(ely )]TJ
+T*
+(cause complications. Most go away )Tj
+T*
+[(in about a week, but it\222)111(s important to )]TJ
+0 -1.222 TD
+[(monitor any mouth sor)18(es you develop. If )]TJ
+0 -1.222 TD
+[(you ar)18(e concer)-18(ned, or if the sor)18(e doesn\222)18(t )]TJ
+T*
+(seem to be healing, contact your dentist )Tj
+T*
+[(or other medical pr)18(ofessional for an )]TJ
+0 -1.222 TD
+(examination.)Tj
+/T1_3 1 Tf
+12 0 0 12 386.8907 710.592 Tm
+(I)Tj
+/T1_4 1 Tf
+/Span<</ActualText<FEFF2003>>> BDC 
+( )Tj
+EMC 
+/T1_1 1 Tf
+1.334 0 Td
+(Fact Sheet)Tj
+/T1_0 1 Tf
+[( Mouth Sor)18(es)] 
+endstream
+endobj
+%--------------------------------------------------------------------------------------------------
+18 0 obj   % PdfSharp.Pdf.Advanced.PdfContent
+<<
+  /Length 3599
+>>
+stream
+TJ
+/T1_4 1 Tf
+/Span<</ActualText<FEFF2003>>> BDC 
+( )Tj
+EMC 
+/T1_3 1 Tf
+11.541 0 Td
+(I)Tj
+ET
+Q
+/CS0 cs 0.937 0.835 0.749  scn
+/GS1 gs
+0 0 585 109.997 re
+f
+q
+0 0 585 765 re
+W n
+BT
+0.137 0.122 0.125  scn
+/GS0 gs
+/T1_3 1 Tf
+10 0 0 10 125.6786 88.3178 Tm
+[(Resour)18(ces)]TJ
+/T1_5 1 Tf
+0.023 Tc 7.84 0 0 8 125.6786 76.9968 Tm
+[(w)-21(w)-21(w)41(.a)14(g)10(d)2(.)20(o)8(rg)23( )]TJ
+0 Tc 7.067 0 Td
+( )Tj
+/T1_0 1 Tf
+-7.067 -1.375 Td
+[(A)13(t t)-7(h)-9(e A)14(G)-15(D)2(\222)25(s W)4(e)-11(b s)-4(i)-7(te)12(, y)-3(o)-8(u c)-15(a)-5(n s)-15(e)-6(a)-5(r)2(c)-4(h m)-12(o)-10(r)-2(e t)-7(h)-1(a)-5(n )]TJ
+( )Tj
+0 -1.375 TD
+[(3)-15(0)-34(0 o)-10(r)1(a)-6(l h)-9(e)-6(a)-6(l)-6(t)-7(h t)3(o)-13(p)-9(i)-8(c)-25(s)-7(, p)-15(o)-11(s)-18(t a d)-14(e)-7(n)2(t)-18(a)-5(l q)-5(u)-11(e)-12(s)-18(t)-7(i)-10(o)-10(n)4(, s)-4(i)-6(g)-6(n u)-6(p )]TJ
+( )Tj
+T*
+[(f)6(o)-10(r e)-35(-)-21(n)-10(e)-8(w)-20(s)-4(l)-11(e)-7(t)-28(te)-7(r)-22(s)-7(, \037)-4(n)-6(d a)-5(n A)14(G)-15(D d)-14(e)-7(n)2(t)-7(i)-3(s)-18(t)-10(, a)-5(n)-6(d m)-12(o)-10(r)-2(e)12(. )]TJ
+/T1_1 1 Tf
+27.504 5.5 Td
+( )Tj
+0.011 Tc T*
+[(877)76(.)-28(2)-21(X)-26(.)-31(A)-33(.)74(Y)-7(E)-17(A)-14(R)]TJ
+0 Tc 7.162 0 Td
+( )Tj
+/T1_0 1 Tf
+-7.162 -1.375 Td
+[(A)14(G)-15(D)2(\222)25(s t)3(o)-12(l)-1(l)-22(-f)-3(r)-2(e)-16(e r)-2(e)-7(f)5(e)-7(r)-10(r)1(a)-5(l nu)-4(m)-8(b)-16(e)-7(r)55(. C)8(a)-6(l)-1(l t)3(o l)-10(o)-16(c)-15(a)-4(te a)-5(n A)14(G)-15(D )]TJ
+T*
+[(m)-13(e)-7(m)-8(b)-16(e)-7(r d)-14(e)-7(n)2(t)-7(i)-3(s)-18(t i)-2(n y)-3(o)-8(u)-4(r a)-5(r)-2(e)-6(a)-3(.)]TJ
+ET
+q 1 0 0 1 66.1765 71.7306 cm
+0 0 m
+4.351 10.982 l
+8.284 1.056 l
+8.292 1.057 l
+8.239 1.057 8.186 1.057 8.132 1.057 c
+5.293 1.043 2.559 0.678 -0.005 0.013 c
+h
+11.207 0.932 m
+11.197 0.928 l
+4.351 17.798 l
+-3.29 -1.037 l
+-8.868 -3.173 -13.376 -6.804 -16.001 -11.278 c
+-12.453 -11.278 l
+-8.419 -5.046 -0.659 -0.598 8.478 0.188 c
+8.523 0.191 8.567 0.195 8.612 0.199 c
+8.625 0.194 l
+8.825 -0.317 l
+0.593 -1.448 -6.354 -5.576 -10.191 -11.241 c
+-6.589 -11.241 l
+-3.222 -6.368 2.377 -2.695 9.162 -1.117 c
+9.389 -1.743 l
+3.629 -3.594 -0.848 -7.009 -4.444 -11.241 c
+-0.869 -11.241 l
+2.209 -7.211 5.628 -4.302 9.653 -2.459 c
+13.171 -11.278 l
+16.151 -11.278 l
+12.182 -1.467 l
+13.882 -0.907 15.674 -0.507 17.598 -0.275 c
+15.58 0.319 13.421 0.74 11.207 0.932 c
+f
+Q
+q 1 0 0 1 43.1419 55.0732 cm
+0 0 m
+2.039 -5.367 l
+0.322 -5.367 l
+-0.1 -4.086 l
+-1.763 -4.086 l
+-2.277 -5.367 l
+-3.542 -5.367 l
+-1.357 0 l
+h
+-0.36 -3.235 m
+-0.537 -2.599 -0.69 -2.085 -0.882 -1.319 c
+-0.897 -1.319 l
+-1.104 -2.085 -1.288 -2.599 -1.487 -3.235 c
+h
+f
+Q
+q 1 0 0 1 48.9849 49.9062 cm
+0 0 m
+-0.414 -0.215 -0.843 -0.291 -1.242 -0.291 c
+-2.561 -0.291 -3.519 0.483 -3.519 1.656 c
+-3.519 2.928 -2.453 3.726 -1.15 3.726 c
+-0.782 3.726 -0.307 3.603 0.061 3.389 c
+-0.337 2.606 l
+-0.552 2.699 -0.782 2.745 -0.981 2.745 c
+-1.487 2.745 -1.901 2.438 -1.901 1.702 c
+-1.901 0.92 -1.334 0.69 -0.997 0.69 c
+-0.767 0.69 -0.537 0.751 -0.383 0.813 c
+h
+f
+Q
+q 1 0 0 1 51.6066 50.0055 cm
+0 0 m
+-0.299 -0.153 -0.667 -0.391 -1.02 -0.391 c
+-1.549 -0.391 -2.131 0.069 -2.131 0.751 c
+-2.131 1.572 -1.664 1.97 -0.613 2.231 c
+0.268 2.446 l
+0.169 2.653 -0.107 2.829 -0.36 2.829 c
+-0.782 2.829 -1.112 2.645 -1.372 2.415 c
+-1.794 3.105 l
+-1.173 3.527 -0.606 3.627 -0.084 3.627 c
+0.836 3.627 1.748 3.327 1.748 2.024 c
+1.748 0.637 l
+1.748 0.315 1.779 -0.031 1.878 -0.299 c
+0.284 -0.299 l
+0.245 -0.214 0.215 -0.023 0.215 0.115 c
+h
+-0.176 1.725 m
+-0.506 1.61 -0.744 1.319 -0.744 0.959 c
+-0.744 0.705 -0.544 0.514 -0.345 0.514 c
+-0.077 0.514 0.314 0.867 0.261 1.894 c
+h
+f
+Q
+q 1 0 0 1 56.8503 50.1666 cm
+0 0 m
+-0.245 -0.23 -0.613 -0.552 -1.173 -0.552 c
+ 
+endstream
+endobj
+%--------------------------------------------------------------------------------------------------
+19 0 obj   % PdfSharp.Pdf.Advanced.PdfContent
+<<
+  /Length 3612
+>>
+stream
+-2.377 -0.552 -2.883 0.506 -2.883 1.503 c
+-2.883 2.285 -2.407 3.465 -1.119 3.465 c
+-0.636 3.465 -0.23 3.273 -0.015 2.982 c
+0 2.982 l
+0 5.175 l
+1.533 5.175 l
+1.533 -0.46 l
+0 -0.46 l
+h
+-1.265 1.457 m
+-1.265 0.721 -1.004 0.222 -0.613 0.222 c
+-0.199 0.222 0 0.805 0 1.434 c
+0 2.147 -0.215 2.645 -0.644 2.645 c
+-1.012 2.645 -1.265 2.208 -1.265 1.457 c
+f
+Q
+q 1 0 0 1 60.6832 51.4395 cm
+0 0 m
+0 -0.629 0.46 -0.913 0.897 -0.913 c
+1.303 -0.913 1.656 -0.782 1.901 -0.636 c
+2.323 -1.418 l
+1.602 -1.763 0.958 -1.825 0.468 -1.825 c
+-0.636 -1.825 -1.61 -0.867 -1.61 0.26 c
+-1.61 1.211 -0.912 2.193 0.544 2.193 c
+1.779 2.193 2.453 1.341 2.323 0 c
+h
+1.035 0.652 m
+1.073 1.28 0.866 1.556 0.506 1.556 c
+0.184 1.556 -0.031 1.265 0.015 0.652 c
+h
+f
+Q
+q 1 0 0 1 65.2059 53.1106 cm
+0 0 m
+0.015 0 l
+0.222 0.322 0.774 0.521 1.349 0.521 c
+1.71 0.521 2.2 0.429 2.407 0 c
+2.653 0.284 3.12 0.514 3.688 0.521 c
+4.677 0.529 5.16 0.054 5.152 -0.943 c
+5.152 -3.404 l
+3.619 -3.404 l
+3.619 -0.989 l
+3.619 -0.698 3.442 -0.437 3.166 -0.437 c
+2.745 -0.437 2.584 -0.659 2.584 -1.165 c
+2.584 -3.404 l
+1.05 -3.404 l
+1.05 -0.989 l
+1.05 -0.736 0.912 -0.437 0.598 -0.437 c
+0.184 -0.437 0.015 -0.644 0.015 -1.157 c
+0.015 -3.404 l
+-1.518 -3.404 l
+-1.518 0.429 l
+0 0.429 l
+h
+f
+Q
+q 1 0 0 1 72.3989 53.6168 cm
+0 0 m
+0.222 -0.736 0.453 -1.48 0.667 -2.446 c
+0.683 -2.446 l
+0.935 -1.48 1.196 -0.736 1.457 0 c
+2.653 -0.192 l
+0.797 -4.385 l
+0.468 -5.121 -0.015 -5.827 -1.073 -5.827 c
+-1.633 -5.827 l
+-1.633 -4.884 l
+-1.364 -4.884 l
+-0.981 -4.884 -0.506 -4.861 -0.215 -3.642 c
+-1.541 -0.184 l
+h
+f
+Q
+q 1 0 0 1 47.3014 43.638 cm
+0 0 m
+0 0.62 0.372 1.391 0.568 1.561 c
+0.679 1.659 0.895 1.75 1.156 1.861 c
+1.398 1.966 1.633 2.038 1.848 2.038 c
+2.404 2.038 2.848 1.803 2.848 1.065 c
+2.848 0.692 2.704 -0.346 2.09 -0.66 c
+1.986 -0.718 1.757 -0.855 1.489 -0.98 c
+1.345 -1.045 1.215 -1.117 0.96 -1.117 c
+0.398 -1.117 0 -0.731 0 0 c
+1.443 -0.725 m
+1.555 -0.725 1.672 -0.679 1.724 -0.647 c
+1.888 -0.542 2.129 0.366 2.129 0.816 c
+2.129 1.6 1.829 1.744 1.437 1.744 c
+1.228 1.744 1.202 1.705 1.11 1.567 c
+0.888 1.241 0.719 0.503 0.719 0.157 c
+0.719 -0.575 1.137 -0.725 1.443 -0.725 c
+f
+Q
+q 1 0 0 1 51.8414 45.3297 cm
+0 0 m
+-0.085 -0.483 -0.581 -3.331 -0.751 -3.88 c
+-1.097 -4.003 -1.293 -4.089 -1.659 -4.298 c
+-1.234 -3.089 -0.823 -0.993 -0.66 0 c
+-0.784 0 -0.967 -0.007 -1.156 -0.039 c
+-1.078 0.085 -1.038 0.163 -1.006 0.287 c
+-0.941 0.281 -0.869 0.274 -0.803 0.268 c
+-0.738 0.261 -0.673 0.261 -0.62 0.261 c
+-0.588 0.496 -0.529 0.967 -0.438 1.234 c
+-0.209 1.339 0.294 1.672 0.562 1.783 c
+0.718 1.848 0.784 1.894 0.993 1.894 c
+1.065 1.881 1.097 1.881 v
+0.973 1.633 0.94 1.515 0.875 1.234 c
+0.686 1.339 0.562 1.391 0.32 1.404 c
+0.222 1.104 0.098 0.542 0.046 0.261 c
+0.359 0.261 0.503 0.274 0.679 0.287 c
+0.601 0.176 0.568 0.104 0.529 -0.039 c
+0.398 -0.013 0.261 0 0.131 0 c
+h
+f
+Q
+q 1 0 0 1 58.084 45.4994 cm
+0 0 m
+0.013 0.046 0.013 0.098 0.013 0.144 c
+0.013 0.633 -0.849 0.849 -1.43 0.849 c
+-1.796 0.849 -2.018 0.764 -2.162 0.666 c
+-2.645 0.326 -2.861 -0.496 -2.861 -1.091 c
+-2.861 -2.299 -2.175 -2.717 -1.456 -2.717 c
+-1.208 -2.717 -1.038 -2.697 -0.882 -2.645 c
+-0.849 -2.508 -0.692 -1.626 -0.692 -1.332 c
+-0.692 -1.149 -0.751 -1.071 -0.901 -1.038 c
+-0.895 -0.999 l
+-0.679 -1.025 -0.464 -1.025 -0.281 -1.025 c
+-0.085 -1.025 0.15 -1.019 0.327 -0.999 c
+0.32 -1.038 l
+0.229 -1.065 0.131 -1.104 0.072 -1.3 c
+-0.026 -1.626 -0.144 -2.495 -0.144 -2.802 c
+-1.241 -2.978 -1.776 -2.978 v
+-3.043 -2.978 -3.677 -2.449 -3.677 -1.3 c
+-3.677 -0.32 -3.181 0.3 -2.756 0.601 c
+-2.567 0.731 -2.181 0.934 -1.972 1.019 c
+-1.816 1.084 -1.528 1.176 -0.98 1.176 c
+-0.333 1.176 0.15 1.078 0.255 1.078 c
+ 
+endstream
+endobj
+%--------------------------------------------------------------------------------------------------
+20 0 obj   % PdfSharp.Pdf.Advanced.PdfContent
+<<
+  /Length 3598
+>>
+stream
+0.32 1.078 0.385 1.091 0.444 1.117 c
+0.261 0.666 0.196 0.437 0.137 0 c
+h
+f
+Q
+q 1 0 0 1 58.554 43.7751 cm
+0 0 m
+0 0.536 0.261 1.104 0.581 1.43 c
+0.738 1.594 1.522 1.901 1.777 1.901 c
+2.083 1.901 2.377 1.77 2.377 1.443 c
+2.377 0.817 1.241 0.483 0.719 0.261 c
+0.719 0.007 0.719 -0.633 1.483 -0.633 c
+1.744 -0.633 1.959 -0.509 2.044 -0.437 c
+2.064 -0.483 2.09 -0.535 2.11 -0.568 c
+1.796 -0.764 1.509 -0.96 1.202 -1.254 c
+0.738 -1.234 0 -1.13 0 0 c
+1.692 1.267 m
+1.692 1.456 1.574 1.581 1.345 1.581 c
+1.267 1.581 1.13 1.574 1.058 1.476 c
+0.81 1.143 0.758 0.712 0.719 0.49 c
+1.104 0.634 1.692 0.771 1.692 1.267 c
+f
+Q
+q 1 0 0 1 63.7206 42.5799 cm
+0 0 m
+-0.281 0 -0.594 0 -0.849 -0.059 c
+-0.764 0.366 -0.248 2.247 -0.248 2.371 c
+-0.248 2.456 -0.274 2.541 -0.411 2.541 c
+-0.529 2.541 -1.025 2.031 -1.241 1.75 c
+-1.698 1.163 -1.672 0.333 -1.75 0.085 c
+-2.025 0.065 -2.24 0.039 -2.527 -0.059 c
+-2.345 0.438 -1.94 2.155 -1.94 2.724 c
+-1.94 2.939 -2.018 2.965 -2.109 2.998 c
+-2.109 3.037 l
+-1.992 3.017 l
+-1.953 3.011 -1.907 3.011 -1.868 3.011 c
+-1.443 3.011 -1.293 3.03 -1.084 3.096 c
+-1.195 2.782 -1.319 2.293 -1.391 1.927 c
+-1.378 1.914 l
+-1.104 2.286 -0.523 2.848 -0.085 3.076 c
+-0.033 3.089 0.02 3.096 0.065 3.096 c
+0.353 3.096 0.47 2.893 0.47 2.711 c
+0.47 2.332 -0.026 0.96 -0.026 0.366 c
+-0.026 0.046 0.176 0.039 0.196 0.039 c
+0.189 0 l
+h
+f
+Q
+q 1 0 0 1 64.7197 43.7751 cm
+0 0 m
+0 0.536 0.261 1.104 0.581 1.43 c
+0.738 1.594 1.522 1.901 1.777 1.901 c
+2.083 1.901 2.377 1.77 2.377 1.443 c
+2.377 0.817 1.241 0.483 0.719 0.261 c
+0.719 0.007 0.719 -0.633 1.483 -0.633 c
+1.744 -0.633 1.959 -0.509 2.044 -0.437 c
+2.064 -0.483 2.09 -0.535 2.11 -0.568 c
+1.796 -0.764 1.509 -0.96 1.202 -1.254 c
+0.738 -1.234 0 -1.13 0 0 c
+1.692 1.267 m
+1.692 1.456 1.574 1.581 1.346 1.581 c
+1.267 1.581 1.13 1.574 1.058 1.476 c
+0.81 1.143 0.758 0.712 0.719 0.49 c
+1.104 0.634 1.692 0.771 1.692 1.267 c
+f
+Q
+q 1 0 0 1 67.7375 45.617 cm
+0 0 m
+0.046 -0.007 0.098 -0.013 0.157 -0.02 c
+0.216 -0.026 0.274 -0.026 0.327 -0.026 c
+0.555 -0.026 0.718 -0.007 0.829 0.019 c
+0.941 0.039 1.006 0.059 1.032 0.059 c
+0.986 -0.052 0.862 -0.594 0.823 -0.744 c
+0.836 -0.757 l
+0.934 -0.614 1.156 -0.32 1.378 -0.105 c
+1.45 -0.033 1.554 0.059 1.724 0.059 c
+1.816 0.059 1.907 0.032 1.999 -0.007 c
+1.842 -0.261 1.77 -0.496 1.705 -0.784 c
+1.594 -0.744 1.463 -0.725 1.345 -0.725 c
+1.136 -0.725 0.908 -0.836 0.771 -1.032 c
+0.686 -1.156 0.477 -2.56 0.431 -2.946 c
+0.131 -2.952 -0.085 -2.985 -0.431 -3.096 c
+-0.202 -2.606 0.189 -0.784 0.189 -0.346 c
+0.189 -0.059 0.059 -0.059 -0.007 -0.039 c
+h
+f
+Q
+q 1 0 0 1 72.3612 42.5799 cm
+0 0 m
+-0.202 0 -0.516 -0.013 -0.731 -0.059 c
+-0.718 0.386 -0.653 0.895 -0.568 1.189 c
+-0.581 1.202 l
+-1.247 0.497 -2.116 -0.059 -2.26 -0.059 c
+-2.273 -0.059 -2.573 0.026 -2.573 0.497 c
+-2.573 1.176 -2.325 2.077 -2.031 2.39 c
+-1.92 2.508 -1.626 2.665 -1.456 2.776 c
+-1.136 2.978 -0.947 3.096 -0.594 3.096 c
+-0.281 3.096 0.137 2.991 0.301 2.991 c
+0.392 2.991 0.483 3.017 0.568 3.057 c
+0.399 2.599 0.052 1.489 0.052 0.516 c
+0.052 0.176 0.124 0.079 0.261 0.039 c
+0.255 0 l
+h
+-1.698 0.529 m
+-1.567 0.529 -0.862 1.098 -0.614 1.555 c
+-0.451 1.855 -0.353 2.273 -0.313 2.528 c
+-0.522 2.639 -0.777 2.704 -0.947 2.704 c
+-1.156 2.704 -1.274 2.671 -1.326 2.619 c
+-1.58 2.364 -1.855 1.391 -1.855 0.849 c
+-1.855 0.673 -1.803 0.529 -1.698 0.529 c
+f
+Q
+q 1 0 0 1 74.229 42.5799 cm
+0 0 m
+-0.157 0 -0.66 -0.006 -0.855 -0.059 c
+-0.855 0.836 -0.222 3.514 -0.222 4.258 c
+-0.222 4.507 -0.32 4.513 -0.424 4.533 c
+-0.418 4.572 l
+-0.17 4.572 l
+0.261 4.572 0.438 4.598 0.647 4.644 c
+0.451 4.017 -0.098 1.098 -0.098 0.529 c
+-0.098 0.281 -0.085 0.059 0.176 0.039 c
+ 
+endstream
+endobj
+%--------------------------------------------------------------------------------------------------
+21 0 obj   % PdfSharp.Pdf.PdfDictionary
+<<
+  /BaseFont /RIKWDT+Frutiger-BlackCn
+  /Encoding /WinAnsiEncoding
+  /FirstChar 32
+  /FontDescriptor 47 0 R
+  /LastChar 116
+  /Subtype /Type1
+  /ToUnicode 48 0 R
+  /Type /Font
+  /Widths [260 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 648 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 537 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 537 0 0 0 0 0 0 0 0 0 574 574 0 389 0 389]
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+22 0 obj   % PdfSharp.Pdf.Advanced.PdfContent
+<<
+  /Length 3595
+>>
+stream
+0.17 0 l
+h
+f
+Q
+q 1 0 0 1 77.3557 45.1663 cm
+0 0 m
+0.059 0.399 0.098 0.836 0.098 1.025 c
+0.098 1.3 0.046 1.391 -0.092 1.411 c
+-0.092 1.45 l
+-0.046 1.443 0.02 1.437 0.117 1.43 c
+0.215 1.43 0.333 1.424 0.477 1.424 c
+0.64 1.424 0.96 1.443 1.162 1.463 c
+1.398 1.482 1.79 1.509 1.998 1.509 c
+3.455 1.509 3.566 0.588 3.566 0.059 c
+3.566 -1.443 2.299 -2.632 0.744 -2.632 c
+0.614 -2.632 0.438 -2.619 0.32 -2.606 c
+0.196 -2.586 0.007 -2.56 -0.15 -2.56 c
+-0.34 -2.56 -0.523 -2.56 -0.712 -2.586 c
+-0.699 -2.547 l
+-0.477 -2.547 -0.405 -2.312 -0.287 -1.737 c
+-0.196 -1.293 -0.105 -0.771 0 0 c
+2.782 -0.111 m
+2.782 0.81 2.26 1.248 1.587 1.248 c
+1.221 1.248 1.051 1.182 0.908 1.149 c
+0.744 0.405 0.47 -1.417 0.412 -2.077 c
+0.594 -2.201 0.855 -2.286 1.241 -2.286 c
+1.515 -2.286 1.803 -2.201 2.005 -2.064 c
+2.684 -1.62 2.782 -0.418 2.782 -0.111 c
+f
+Q
+q 1 0 0 1 81.2807 43.7751 cm
+0 0 m
+0 0.536 0.261 1.104 0.581 1.43 c
+0.738 1.594 1.522 1.901 1.777 1.901 c
+2.083 1.901 2.377 1.77 2.377 1.443 c
+2.377 0.817 1.241 0.483 0.718 0.261 c
+0.718 0.007 0.718 -0.633 1.483 -0.633 c
+1.743 -0.633 1.959 -0.509 2.044 -0.437 c
+2.064 -0.483 2.09 -0.535 2.109 -0.568 c
+1.796 -0.764 1.509 -0.96 1.202 -1.254 c
+0.738 -1.234 0 -1.13 0 0 c
+1.691 1.267 m
+1.691 1.456 1.574 1.581 1.346 1.581 c
+1.267 1.581 1.13 1.574 1.058 1.476 c
+0.81 1.143 0.757 0.712 0.718 0.49 c
+1.104 0.634 1.691 0.771 1.691 1.267 c
+f
+Q
+q 1 0 0 1 86.4472 42.5799 cm
+0 0 m
+-0.281 0 -0.594 0 -0.849 -0.059 c
+-0.764 0.366 -0.248 2.247 -0.248 2.371 c
+-0.248 2.456 -0.274 2.541 -0.411 2.541 c
+-0.529 2.541 -1.025 2.031 -1.241 1.75 c
+-1.698 1.163 -1.672 0.333 -1.75 0.085 c
+-2.024 0.065 -2.24 0.039 -2.527 -0.059 c
+-2.345 0.438 -1.94 2.155 -1.94 2.724 c
+-1.94 2.939 -2.018 2.965 -2.109 2.998 c
+-2.109 3.037 l
+-1.992 3.017 l
+-1.953 3.011 -1.907 3.011 -1.868 3.011 c
+-1.443 3.011 -1.293 3.03 -1.084 3.096 c
+-1.195 2.782 -1.319 2.293 -1.391 1.927 c
+-1.378 1.914 l
+-1.104 2.286 -0.523 2.848 -0.085 3.076 c
+-0.033 3.089 0.019 3.096 0.065 3.096 c
+0.353 3.096 0.47 2.893 0.47 2.711 c
+0.47 2.332 -0.026 0.96 -0.026 0.366 c
+-0.026 0.046 0.176 0.039 0.196 0.039 c
+0.189 0 l
+h
+f
+Q
+q 1 0 0 1 88.6547 45.3297 cm
+0 0 m
+-0.033 -0.137 -0.327 -1.424 -0.327 -1.933 c
+-0.327 -2.136 -0.261 -2.299 -0.059 -2.299 c
+0.052 -2.299 0.098 -2.273 0.163 -2.253 c
+0.163 -2.299 0.182 -2.351 0.189 -2.397 c
+-0.196 -2.515 -0.444 -2.599 -0.784 -2.808 c
+-0.875 -2.71 -1.045 -2.56 -1.045 -2.175 c
+-1.045 -1.822 -0.843 -0.895 -0.712 -0.222 c
+-0.699 -0.15 -0.679 -0.072 -0.66 0 c
+-0.784 -0.007 -0.967 -0.007 -1.156 -0.026 c
+-1.078 0.098 -1.039 0.163 -1.006 0.287 c
+-0.941 0.281 -0.869 0.274 -0.804 0.268 c
+-0.738 0.261 -0.673 0.261 -0.621 0.261 c
+-0.601 0.353 -0.503 0.967 -0.497 1.006 c
+-0.189 1.025 0.019 1.078 0.294 1.195 c
+0.229 0.973 0.091 0.451 0.045 0.261 c
+0.359 0.261 0.503 0.268 0.679 0.274 c
+0.607 0.17 0.574 0.104 0.529 -0.033 c
+0.398 -0.013 0.268 0 0.137 0 c
+h
+f
+Q
+q 1 0 0 1 89.9278 46.4139 cm
+0 0 m
+0.202 0.143 0.366 0.294 0.51 0.45 c
+0.666 0.255 0.764 0.124 0.973 -0.039 c
+0.79 -0.176 0.614 -0.333 0.457 -0.49 c
+0.314 -0.314 0.15 -0.15 0 0 c
+0.411 -3.834 m
+-0.085 -3.834 -0.176 -3.853 -0.45 -3.893 c
+-0.411 -3.416 -0.346 -2.913 v
+-0.248 -2.11 -0.033 -1.339 -0.033 -1.097 c
+-0.033 -0.954 -0.111 -0.862 -0.222 -0.836 c
+-0.222 -0.797 l
+-0.105 -0.817 l
+-0.059 -0.823 -0.007 -0.823 0.052 -0.823 c
+0.32 -0.823 0.633 -0.797 0.803 -0.738 c
+0.673 -1.156 0.301 -2.567 0.301 -3.285 c
+0.301 -3.742 0.503 -3.762 0.594 -3.795 c
+0.588 -3.834 l
+h
+f
+Q
+q 1 0 0 1 93.2057 44.7811 cm
+0 0 m
+-0.072 0.3 -0.431 0.568 -0.868 0.568 c
+-0.947 0.568 -0.993 0.555 -1.038 0.523 c
+-1.123 0.464 -1.143 0.287 -1.143 0.229 c
+ 
+endstream
+endobj
+%--------------------------------------------------------------------------------------------------
+23 0 obj   % PdfSharp.Pdf.Advanced.PdfContent
+<<
+  /Length 3391
+>>
+stream
+-1.143 -0.431 0.131 -0.496 0.131 -1.222 c
+0.131 -1.561 -0.078 -1.809 -0.411 -1.985 c
+-0.523 -2.044 -0.908 -2.26 -1.404 -2.26 c
+-1.822 -2.26 -2.135 -2.097 -2.286 -2.011 c
+-2.103 -1.757 -2.018 -1.574 -1.953 -1.261 c
+-1.927 -1.261 l
+-1.881 -1.58 -1.541 -1.933 -0.999 -1.933 c
+-0.868 -1.933 -0.673 -1.887 -0.627 -1.848 c
+-0.555 -1.783 -0.555 -1.705 -0.555 -1.593 c
+-0.555 -0.914 -1.829 -0.849 -1.829 -0.072 c
+-1.829 0.268 -1.554 0.523 -1.097 0.718 c
+-0.823 0.836 -0.66 0.895 -0.45 0.895 c
+-0.046 0.895 0.196 0.764 0.307 0.718 c
+0.137 0.477 0.072 0.294 0.02 0 c
+h
+f
+Q
+q 1 0 0 1 95.061 45.3297 cm
+0 0 m
+-0.032 -0.137 -0.326 -1.424 -0.326 -1.933 c
+-0.326 -2.136 -0.261 -2.299 -0.059 -2.299 c
+0.052 -2.299 0.098 -2.273 0.163 -2.253 c
+0.163 -2.299 0.183 -2.351 0.189 -2.397 c
+-0.196 -2.515 -0.444 -2.599 -0.784 -2.808 c
+-0.875 -2.71 -1.045 -2.56 -1.045 -2.175 c
+-1.045 -1.822 -0.843 -0.895 -0.712 -0.222 c
+-0.699 -0.15 -0.679 -0.072 -0.66 0 c
+-0.784 -0.007 -0.967 -0.007 -1.156 -0.026 c
+-1.078 0.098 -1.038 0.163 -1.006 0.287 c
+-0.94 0.281 -0.869 0.274 -0.803 0.268 c
+-0.738 0.261 -0.673 0.261 -0.62 0.261 c
+-0.601 0.353 -0.503 0.967 -0.496 1.006 c
+-0.189 1.025 0.02 1.078 0.294 1.195 c
+0.229 0.973 0.092 0.451 0.046 0.261 c
+0.359 0.261 0.503 0.268 0.679 0.274 c
+0.607 0.17 0.575 0.104 0.529 -0.033 c
+0.399 -0.013 0.268 0 0.137 0 c
+h
+f
+Q
+q 1 0 0 1 96.1449 45.617 cm
+0 0 m
+0.046 -0.007 0.098 -0.013 0.157 -0.02 c
+0.216 -0.026 0.274 -0.026 0.326 -0.026 c
+0.555 -0.026 0.718 -0.007 0.829 0.019 c
+0.941 0.039 1.006 0.059 1.032 0.059 c
+0.986 -0.052 0.862 -0.594 0.823 -0.744 c
+0.836 -0.757 l
+0.934 -0.614 1.156 -0.32 1.378 -0.105 c
+1.45 -0.033 1.554 0.059 1.724 0.059 c
+1.816 0.059 1.907 0.032 1.999 -0.007 c
+1.842 -0.261 1.77 -0.496 1.705 -0.784 c
+1.594 -0.744 1.463 -0.725 1.345 -0.725 c
+1.136 -0.725 0.908 -0.836 0.771 -1.032 c
+0.686 -1.156 0.477 -2.56 0.431 -2.946 c
+0.131 -2.952 -0.085 -2.985 -0.431 -3.096 c
+-0.202 -2.606 0.189 -0.784 0.189 -0.346 c
+0.189 -0.059 0.059 -0.059 -0.006 -0.039 c
+h
+f
+Q
+q 1 0 0 1 100.514 45.617 cm
+0 0 m
+0.039 -0.007 0.065 -0.013 0.111 -0.02 c
+0.157 -0.026 0.242 -0.026 0.307 -0.026 c
+0.66 -0.026 0.81 0 0.986 0.059 c
+0.836 -0.209 0.353 -1.123 -0.281 -2.103 c
+-1.188 -3.501 -1.822 -4.585 -2.933 -4.585 c
+-2.854 -4.376 -2.795 -4.088 -2.795 -3.801 c
+-2.691 -3.847 -2.586 -3.866 -2.482 -3.866 c
+-1.803 -3.866 -1.352 -3.357 -1.182 -3.096 c
+-1.339 -3.096 l
+-1.411 -2.678 -1.587 -1.659 -1.75 -0.823 c
+-1.868 -0.242 -1.881 -0.105 -2.07 -0.039 c
+-2.064 0 l
+-2.038 -0.007 -1.992 -0.013 -1.94 -0.02 c
+-1.887 -0.02 -1.822 -0.026 -1.757 -0.026 c
+-1.463 -0.026 -1.3 0 -1.117 0.059 c
+-1.104 -0.51 -0.849 -2.11 -0.79 -2.541 c
+-0.477 -2.064 0.157 -0.62 0.157 -0.216 c
+0.157 -0.105 0.098 -0.059 -0.006 -0.039 c
+h
+f
+Q
+Q
+/CS0 CS 0.137 0.122 0.125  SCN
+4 M 
+/GS0 gs
+q 1 0 0 1 111.8077 95.7792 cm
+0 0 m
+0 -60.997 l
+S
+Q
+q
+0 0 585 765 re
+W n
+BT
+0.137 0.122 0.125  scn
+/T1_6 1 Tf
+39 0 0 52 39.6 637.9968 Tm
+[(A Sor)18(e Spot)]TJ
+ET
+Q
+q
+360.636 562.513 m
+366.889 682.749 l
+557.411 672.689 l
+551.159 552.453 l
+h
+W n
+q
+/GS1 gs
+205.1838989 -10.7532349 7.4611816 142.3678436 352.6595154 551.8513947 cm
+/Im0 Do
+Q
+Q
+0.616 0.624 0.635  SCN
+4.672 w 
+/GS1 gs
+q 1 0 0 1 366.8894 682.7492 cm
+0 0 m
+-6.253 -120.237 l
+184.269 -130.296 l
+190.522 -10.06 l
+0 0 l
+h
+S
+Q
+0.137 0.122 0.125  SCN
+3.472 w 
+/GS0 gs
+q 1 0 0 1 359.6194 675.7698 cm
+0 0 m
+4.211 -121.599 l
+192.571 -114.966 l
+188.36 6.633 l
+0 0 l
+h
+S
+Q
+ Q
+endstream
+endobj
+%--------------------------------------------------------------------------------------------------
+24 0 obj   % PdfSharp.Pdf.PdfDictionary
+<<
+  /Length 6894
+  /Subtype /XML
+  /Type /Metadata
+>>
+stream
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 4.1-c037 46.282696, Mon Apr 02 2007 18:36:56        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:tiff="http://ns.adobe.com/tiff/1.0/"
+    xmlns:exif="http://ns.adobe.com/exif/1.0/"
+    xmlns:xap="http://ns.adobe.com/xap/1.0/"
+    xmlns:aux="http://ns.adobe.com/exif/1.0/aux/"
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+    xmlns:xapMM="http://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
+    xmlns:Iptc4xmpCore="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/"
+    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
+   tiff:Make="Canon"
+   tiff:Model="Canon EOS 5D"
+   tiff:ImageWidth="1132"
+   tiff:ImageLength="1696"
+   tiff:SamplesPerPixel="4"
+   tiff:PhotometricInterpretation="5"
+   tiff:XResolution="3000000/10000"
+   tiff:YResolution="3000000/10000"
+   tiff:ResolutionUnit="2"
+   tiff:Compression="5"
+   tiff:PlanarConfiguration="1"
+   tiff:Orientation="1"
+   tiff:NativeDigest="256,257,258,259,262,274,277,284,530,531,282,283,296,301,318,319,529,532,306,270,271,272,305,315,33432;21F8FD5BE32DCF5677BB367B53E927C6"
+   exif:ExifVersion="0221"
+   exif:ExposureTime="1/160"
+   exif:ShutterSpeedValue="7321928/1000000"
+   exif:FNumber="11/1"
+   exif:ApertureValue="6918863/1000000"
+   exif:ExposureProgram="1"
+   exif:DateTimeOriginal="2008-06-14T09:57:19-07:00"
+   exif:DateTimeDigitized="2008-06-14T09:57:19-07:00"
+   exif:ExposureBiasValue="0/1"
+   exif:MaxApertureValue="3/1"
+   exif:MeteringMode="3"
+   exif:FocalLength="51/1"
+   exif:CustomRendered="0"
+   exif:ExposureMode="1"
+   exif:WhiteBalance="0"
+   exif:SceneCaptureType="0"
+   exif:FocalPlaneXResolution="4368000/1415"
+   exif:FocalPlaneYResolution="2912000/942"
+   exif:FocalPlaneResolutionUnit="2"
+   exif:PixelXDimension="1132"
+   exif:PixelYDimension="1696"
+   exif:ColorSpace="-1"
+   exif:NativeDigest="36864,40960,40961,37121,37122,40962,40963,37510,40964,36867,36868,33434,33437,34850,34852,34855,34856,37377,37378,37379,37380,37381,37382,37383,37384,37385,37386,37396,41483,41484,41486,41487,41488,41492,41493,41495,41728,41729,41730,41985,41986,41987,41988,41989,41990,41991,41992,41993,41994,41995,41996,42016,0,2,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20,22,23,24,25,26,27,28,30;3D60DBBF71A9078B748CA8ADACBE87F9"
+   xap:ModifyDate="2008-09-17T12:25:07-05:00"
+   xap:CreatorTool="Adobe Photoshop CS3 Macintosh"
+   xap:CreateDate="2008-09-17T12:25:07-05:00"
+   xap:MetadataDate="2008-09-17T12:25:07-05:00"
+   aux:SerialNumber="2821202215"
+   aux:LensInfo="24/1 70/1 0/0 0/0"
+   aux:Lens="EF24-70mm f/2.8L USM"
+   aux:ImageNumber="7"
+   aux:FlashCompensation="0/1"
+   aux:Firmware="1.1.0"
+   photoshop:AuthorsPosition="Photographer"
+   photoshop:LegacyIPTCDigest="49437748AD377960CCBD42FB81C35F7B"
+   photoshop:ColorMode="4"
+   photoshop:ICCProfile="U.S. Web Coated (SWOP) v2"
+   photoshop:History=""
+   dc:format="image/tiff"
+   crs:Version="5.0"
+   crs:WhiteBalance="Custom"
+   crs:Temperature="4783"
+   crs:Tint="-4"
+   crs:Exposure="0.00"
+   crs:Shadows="8"
+   crs:Brightness="+41"
+   crs:Contrast="+79"
+   crs:Saturation="0"
+   crs:Sharpness="25"
+   crs:LuminanceSmoothing="0"
+   crs:ColorNoiseReduction="25"
+   crs:ChromaticAberrationR="0"
+   crs:ChromaticAberrationB="0"
+   crs:VignetteAmount="0"
+   crs:ShadowTint="0"
+   crs:RedHue="0"
+   crs:RedSaturation="0"
+   crs:GreenHue="0"
+   crs:GreenSaturation="0"
+   crs:BlueHue="0"
+   crs:BlueSaturation="0"
+   crs:FillLight="33"
+   crs:Vibrance="0"
+   crs:HighlightRecovery="9"
+   crs:Clarity="0"
+   crs:Defringe="0"
+   crs:HueAdjustmentRed="0"
+   crs:HueAdjustmentOrange="0"
+   crs:HueAdjustmentYellow="0"
+   crs:HueAdjustmentGreen="0"
+   crs:HueAdjustmentAqua="0"
+   crs:HueAdjustmentBlue="0"
+   crs:HueAdjustmentPurple="0"
+   crs:HueAdjustmentMagenta="0"
+   crs:SaturationAdjustmentRed="0"
+   crs:SaturationAdjustmentOrange="0"
+   crs:SaturationAdjustmentYellow="0"
+   crs:SaturationAdjustmentGreen="0"
+   crs:SaturationAdjustmentAqua="0"
+   crs:SaturationAdjustmentBlue="0"
+   crs:SaturationAdjustmentPurple="0"
+   crs:SaturationAdjustmentMagenta="0"
+   crs:LuminanceAdjustmentRed="0"
+   crs:LuminanceAdjustmentOrange="0"
+   crs:LuminanceAdjustmentYellow="0"
+   crs:LuminanceAdjustmentGreen="0"
+   crs:LuminanceAdjustmentAqua="0"
+   crs:LuminanceAdjustmentBlue="0"
+   crs:LuminanceAdjustmentPurple="0"
+   crs:LuminanceAdjustmentMagenta="0"
+   crs:SplitToningShadowHue="0"
+   crs:SplitToningShadowSaturation="0"
+   crs:SplitToningHighlightHue="0"
+   crs:SplitToningHighlightSaturation="0"
+   crs:SplitToningBalance="0"
+   crs:ParametricShadows="0"
+   crs:ParametricDarks="0"
+   crs:ParametricLights="0"
+   crs:ParametricHighlights="0"
+   crs:ParametricShadowSplit="25"
+   crs:ParametricMidtoneSplit="50"
+   crs:ParametricHighlightSplit="75"
+   crs:SharpenRadius="+1.0"
+   crs:SharpenDetail="25"
+   crs:SharpenEdgeMasking="0"
+   crs:PostCropVignetteAmount="0"
+   crs:ConvertToGrayscale="False"
+   crs:ToneCurveName="Medium Contrast"
+   crs:CameraProfile="ACR 4.4"
+   crs:CameraProfileDigest="944968722A058A1EADE7D6E3922A771B"
+   crs:HasSettings="True"
+   crs:HasCrop="False"
+   crs:AlreadyApplied="True"
+   xapMM:DocumentID="uuid:EB483214864511DD816AD67603D08EBD"
+   xapMM:InstanceID="uuid:EB483215864511DD816AD67603D08EBD">
+   <tiff:BitsPerSample>
+    <rdf:Seq>
+     <rdf:li>8</rdf:li>
+     <rdf:li>8</rdf:li>
+     <rdf:li>8</rdf:li>
+     <rdf:li>8</rdf:li>
+    </rdf:Seq>
+   </tiff:BitsPerSample>
+   <exif:ISOSpeedRatings>
+    <rdf:Seq>
+     <rdf:li>100</rdf:li>
+    </rdf:Seq>
+   </exif:ISOSpeedRatings>
+   <exif:Flash
+    exif:Fired="False"
+    exif:Return="0"
+    exif:Mode="2"
+    exif:Function="False"
+    exif:RedEyeMode="False"/>
+   <dc:creator>
+    <rdf:Seq>
+     <rdf:li>Renee Lee</rdf:li>
+    </rdf:Seq>
+   </dc:creator>
+   <dc:rights>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Renee Lee</rdf:li>
+    </rdf:Alt>
+   </dc:rights>
+   <dc:subject>
+    <rdf:Bag>
+     <rdf:li>todd</rdf:li>
+    </rdf:Bag>
+   </dc:subject>
+   <crs:ToneCurve>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>32, 22</rdf:li>
+     <rdf:li>64, 56</rdf:li>
+     <rdf:li>128, 128</rdf:li>
+     <rdf:li>192, 196</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurve>
+   <xapMM:DerivedFrom
+    stRef:instanceID="uuid:641B011EDA3BDD11B680A89C646EA3F9"
+    stRef:documentID="uuid:631B011EDA3BDD11B680A89C646EA3F9"/>
+   <Iptc4xmpCore:CreatorContactInfo
+    Iptc4xmpCore:CiTelWork="801-230-8131"
+    Iptc4xmpCore:CiEmailWork="Renee@slcphoto.com"
+    Iptc4xmpCore:CiUrlWork="http://www.photosanddesign.com"/>
+   <lr:hierarchicalSubject>
+    <rdf:Bag>
+     <rdf:li>todd</rdf:li>
+    </rdf:Bag>
+   </lr:hierarchicalSubject>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
+endstream
+endobj
+%--------------------------------------------------------------------------------------------------
+25 0 obj   % PdfSharp.Pdf.PdfDictionary
+<<
+  /Filter /FlateDecode
+  /Length 2574
+  /N 3
+>>
+stream
+HâúñyTSw«o…ûêï∞√c[Ä∞ê5laëQIBHÿADEDÑ™ï2÷mtFOEù.Æc≠÷}Í“ı0ÍË8¥◊éù8GùNg¶”ÔÔ˜9˜wÔÔ›ﬂΩ˜ùÛ †'•™µ’0 ç÷†œJå≈b§	 
+  2y≠.-;!‡í∆K∞Z‹	¸ãû^êiΩ"L ¿0ˇâ-◊È @8(îµrú;qÆ™7ËLˆúy•ï&ÜQÎÒq∂4±jûΩÁ|Ê9⁄ƒ
+çVÅ≥)gùB£0ÒiúW◊ï8#©8w’©ïı8_≈Ÿ• ®Q„¸‹´Q j@È&ªA)/«Ÿg∫>'KÇÛ »t’;\˙î”•$’∫FΩZUn¿‹Âò(4Tå%)Î´îÉ0C&ØîÈò§Z£ìiòøÛú8¶⁄bxëÉE°¡¡B—;Ö˙ØõøP¶ﬁŒ”ìÃπûA¸om?ÁW=
+ÄxØÕ˙∑∂“- åØ¿ÚÊ[õÀ˚ 0Òææ¯Œ}¯¶y)7taææııı>j•‹«T–7˙üø@Ôºœ«t‹õÚ`q 2ô± ÄôÍ&ØÆ™6Í±ZùLÆƒÑ?‚_¯Ûyxg)Àîz•è»√ßL≠U·Ì÷*‘uµSkˇSeÿO4?◊∏∏cØØÿ∞.Ú Ú∑ Â“ R¥ﬂÅﬁÙ-ïí25ﬂ·ﬁ¸‹œ	˙˜S·>”£V≠öãìdÂ`r£æn~œÙY†&‡+`úÅ;¬A4à… ‰Ä∞»A9– =®-†tÅ∞l√`;ª¡~påÉè¡	Gp|	ÆÅ[`LÉá`<Ø "AàYAê+‰˘Cb(äáR°,® *ÅTê2B-–
+®ÍáÜ°–nË˜–QËt∫}MA†Ô†ó0”alª¡æ∞éÅS‡x	¨Çk‡&∏^¡£>¯0|>_É'·á,¬G!"F$H:Ràî!z§ÈFëQd?r9ã\A&ëG»îàrQ¢·höã —¥ÌEá—]ËaÙ4zùBg–◊¡ñ‡E#H	ã*B=°ã0HÿI¯àpÜpç0MxJ$˘D1ÑòD, VõâΩƒ≠ƒƒ„ƒKƒªƒYâdEÚ"Eê“I2íÅ‘E⁄B⁄G˙åtô4MzN¶ë»˛‰r!YKÓ í˜ê?%_&ﬂ#ø¢∞(Æî0J:EAi§ÙQ∆(«()”îWT6U@ç†ÊP+®Ì‘!Í~ÍÍmÍçÊD•e“‘¥Â¥!⁄Ôhü”¶h/Ë∫']B/¢ÈÎË“è”ø¢?a0nåhF!√¿X«ÿÕ8≈¯öÒ‹åkÊc&5Sòµôçò6ªlˆòIa∫2còKôMÃAÊ!ÊEÊ#ÖÂ∆í∞d¨V÷Î(ÎkñÕeãÿÈlªóΩá}é}üC‚∏q‚9
+N'ÁŒ)Œ].¬uÊJ∏rÓ
+Ó˜wöG‰	xR^Øá˜[ﬁo∆úchûgﬁ`>b˛â˘$·ªÒ•¸*~ˇ ˇ:ˇ•ÖùEåÖ“bç≈~ãÀœ,m,£-ïñ›ñ,ØYæ¥¬¨‚≠*≠6Xç[›±F≠=≠3≠Î≠∑Yü±~d√≥	∑ë€t€¥πi€z⁄fŸ6€~`{¡v÷Œﬁ.—Ng∑≈Óî›#{æ}¥}Ö˝Ä˝ßˆ∏ëjááœ˛äôc1X6Ñù∆fmìçé;'_9	úrù:ú8›q¶:ãùÀúúO:œ∏8∏§π¥∏ÏuπÈJqªñªnv=Î˙ÃM‡ñÔ∂ m‹Ìæ¿R 4	ˆ
+nª3‹£‹k‹G›Øz=ƒï[=æÙÑ=É<À=G</z¡^¡^jØ≠^óº	ﬁ°ﬁZÔQÔB∫0FX'‹+úÚ·˚§˙t¯å˚<ˆuÒ-Ù›‡{÷˜µ_ê_ïﬂòﬂ-Gî,Í}ÁÔÈ/˜Òø¿Hh8m†W†2p[‡üÉ∏AiA´ÇN˝#8$Xº?¯AàKHI»{!7ƒ<qÜ∏W¸y(!46¥-Ù„–a¡aÜ∞ÉaÜWÜÔ	øø@∞@π`l¡›ßYƒéà…H,≤$Ú˝»…(«(Y‘h‘7—Œ—äËù—˜b<b*bˆ≈<éıã’«~˚L&Y&9áƒ%∆u«Mƒs‚s„á„øNpJP%ÏMòIJlN<ûDHJI⁄êtCj'ïKwKgíCíó%üN°ßdßß|ìÍô™O=ñß%ßmLªΩ–u°v·x:Hó¶oLøì!»®…¯C&13#s$Û/Y¢¨ñ¨≥Ÿ‹Ï‚Ï=ŸOsbs˙rnÂ∫ÁsOÊ1ÛäÚvÁ=ÀèÀÔœü\‰ªhŸ¢Û÷ÍÇ#Ö§¬º¬ùÖ≥ã„oZ<]T‘Ut}â`I√ísK≠óV-˝§òY,+>TB(…/ŸSÚÉ,]6*õ-ïñæW:#ó»7À*¢ä eøÚ^YDYŸ}UÑj£ÍAyT˘`˘#µD=¨˛∂"©b{≈≥ Ù +¨ Ø:†!kJ4Gµm•ˆtµ}uCı%ùóÆK7YV≥©fFü¢ﬂY’.©=b‡·?SåÓ∆ï∆©∫»∫ë∫Áıyıáÿ⁄ÜçûçkÔ5%4˝¶mñ7ülqlioôZ≥lG+‘Z⁄z≤Õπ≠≥mzy‚Ú]Ì‘ˆ ˆ?u¯uÙw|ø"≈±NªŒÂùwW&Æ‹€e÷•Ô∫±*|’ˆ’ËjıÍâ5k∂¨y›≠Ë˛¢«Øg∞Áá^yÔkEká÷˛∏Æl›D_pﬂ∂ıƒı⁄ı◊7Dmÿ’œÓoÍøª1m„·l†{‡˚M≈õŒnﬂL›l‹<9î˙O §[˛ò∏ô$ôêô¸öhö’õBõØúúâú˜ùdù“û@ûÆüüãü˙†i†ÿ°G°∂¢&¢ñ££v£Ê§V§«•8•©¶¶ã¶˝ßnß‡®R®ƒ©7©©™™è´´u´È¨\¨–≠D≠∏Æ-Æ°ØØã∞ ∞u∞Í±`±÷≤K≤¬≥8≥Æ¥%¥úµµä∂∂y∂∑h∑‡∏Y∏—πJπ¬∫;∫µª.ªßº!ºõΩΩèæ
+æÑæˇøzøı¿p¿Ï¡g¡„¬_¬€√X√‘ƒQƒŒ≈K≈»∆F∆√«A«ø»=»º…:…π 8 ∑À6À∂Ã5ÃµÕ5ÕµŒ6Œ∂œ7œ∏–9–∫—<—æ“?“¡”D”∆‘I‘À’N’—÷U÷ÿ◊\◊‡ÿdÿËŸlŸÒ⁄v⁄˚€Ä‹‹ä››ñﬁﬁ¢ﬂ)ﬂØ‡6‡Ω·D·Ã‚S‚€„c„Î‰s‰¸ÂÑÊÊñÁÁ©Ë2ËºÈFÈ–Í[ÍÂÎpÎ˚ÏÜÌÌúÓ(Ó¥Ô@ÔÃXÂÒrÒˇÚåÛÛßÙ4Ù¬ıPıﬁˆmˆ˚˜ä¯¯®˘8˘«˙W˙Á˚w¸¸ò˝)˝∫˛K˛‹ˇmˇˇ ˜ÑÛ˚
+endstream
+endobj
+%--------------------------------------------------------------------------------------------------
+26 0 obj   % PdfSharp.Pdf.PdfDictionary
+<<
+  /BitsPerComponent 8
+  /ColorSpace 11 0 R
+  /Filter /DCTDecode
+  /Height 199
+  /Intent /RelativeColorimetric
+  /Length 7142
+  /Metadata 24 0 R
+  /Name /X
+  /Subtype /Image
+  /Type /XObject
+  /Width 286
+>>
+stream
+ˇÿˇÓ Adobe dÄ   ˇ€ Ñ 							   &))))&58885>>>>>>>>>>
+
+
+     &&&&)))...ˇ¿  «" ˇƒB          	
+         	
+ 3 !1AQa"qÅ2ë°±B#$R¡b34rÇ—C%íS·Òcs5¢≤É&DìTdE¬£t6“U‚eÚ≥Ñ√”u„ÛF'î§Ö¥ïƒ‘‰Ù•µ≈’ÂıVfvÜñ¶∂∆÷Êˆ7GWgwáóß∑«◊Á˜ ; !1AQaq"2Åë°±B#¡R—3$b·rÇíCScs4Ò%¢≤É&5¬“DìT£dEU6te‚Ú≥Ñ√”u„ÛFî§Ö¥ïƒ‘‰Ù•µ≈’ÂıVfvÜñ¶∂∆÷Êˆ'7GWgwáóß∑«◊Á˜ˇ⁄   ? ·IBtär ≥”⁄ItLy'6ﬂmAåhk_ÿ}#'¡,:ç≤”´kÅ·%⁄+TU¥ùF„§ †…@ÏÕå‡‘ˆ‘∞É√Gáö›¿√VGπ ÆdÌYÓ$-rdÅ¿P»€s(2`ùxW)§q˘ÖU`ë*†B1
+úóm`:î∂	)À¿‰Ò™Øí@!£ÒD≠ë¿S∂¡®ÌŸ æyÂ;Lù≥ØÇöf—ÙŒùÇ™€û{Äb<¬Ü@{2j˘ª•øGﬁ°Ci∞XÌa‡R›xçjz©ò·∆` ¨ñ5ÄÖ}‚á4ù
+≠πßiq8J¿Xxãb«‘√Ó+?/&ß“`t6ıºq:¿=ïckmpiótç>‰ŸO≤Ä!rˆ÷µƒíu€ƒ¯"oØ2ßVÈ›®Ç¶pœ”ep¡¿ÛMc,lXˆ9°¶4 ˛DÖç‘uxÓ≠ÑÍÏs£VË~>k%v}g=üiÆ]¶◊è%»‰◊È⁄Gc™≥Üv)ßö&—&Níëçd IíSì¶IK$ù$î≈$ÈíR…'LíI:dîﬁLTìTÍÙöÎ5A˜8∏êﬁƒÄ6´M§zø…f≤yïõÉcÎ™À~å∑N}›ˇ ·ëqníÚÿÚéUlÄÒ∆#†wiic4”M'¡Ñ˜ÓPÍp}a≠÷‰F≠≥ŸBwnõTæ ´f—∑ÕRfü •ºó@Oñe8óO*BØ˜ßlµ£«≈LZ÷∂x¯£¢,ÙSq⁄y:©Ìc`∏	A˚LÛÙCd™∑gÔ¨ÅíL~D	BÀw.ÅìäÊ7È≤Y˛Su
+ÿŒ°â°ç√ü·G˛ÃòU˙KÊ‹ö¶.txA)]◊éÖx:B˚ùsèvè¨¡>^!a‰<ln±§üIZv?á]|·ÆgßπâŸ‘¢S;÷Ó%}Æt^˝¶uHÚWj≈ƒ« åƒÖG¨Ád1¬åa¥ƒπﬁõ≥™€KãpÍvVI¸¯$IJ;–
+ñ◊#^Ó€~9ZwGp	zøf{H.⁄Ôh-çãıÉ0Wuˆ:¶9ûˆ`kœÓƒ øWB {@∑&‚¿eŒ. Bt¨x¨u‘y∑2pá¶‡ ¥Úﬁ«Ã.´a>õ¬5ÇyÖ›Q{)∞ÁµÜú“BÃ˙¡ÇÎ´9f◊∑]HB£{-… ^	%;õ∂«6"
+Ç¥5iù
+…ì§íñLTì$¶)'LíñHßLíñI:dê≤I$í]M	“Eú@`Ä`8ƒx˚\âáhÆ∆¡vº6á}Õ$ÅÚÑJÿÍ∂Xx-◊øuA©f∆tKÖë∏AÏah1‡	X¯^÷ÉÓÅ¯J◊àj†ñÌºf¬pÌ±–gÊÇ¢êp—†Ò™K™€ı=∆gàïZÀtπ–”ƒ*˘écuƒ˛q%TÆ˜ŸÌuê9#˝∞îß—nƒ•» í\«K[§f~5‰[`;Iô<Qq∫eóüRœe3#oΩgı^´V84a∂XÕ7Á≈!øu√®uß`—Îh”ù4E˙∑ùvO≠uÆ>ÁKáâ\ûEñÂ›:íWQ–±›èA'ÛÑî„;£åÁ]âŸ.≥ëÚR™ÁÜñ±—?ÇŒ6ªQÿ"€°a⁄z≥òiTÆ°ÜsZEˆ<0~ecB|˚•”1˙}<<t›Ì¡Xß&Õ=FÉúﬂ0≠üEÃ1˜"ä√¶ÑoŸ∑Uò≠lT∆ë‚HAø2πÄÌGaü«ÖH≤∑Ã7k{*ËÆe£îÓ2VåCrJv:À9sÄ? ü‡§Í´,>ˆûAN⁄¯ÚD¿x•ÊâDû™}[.Œ±î;kﬂQí<ıósK\Zyi#Ó^≥ëXt;√B|%y^UO£*Íl—’ÿÊüëR·ë6Mö‹ƒ"Híxê¶NíïÅdíI%,ô:I)äe"ô%,ô:dî≤I$íùíI.ÇﬁÓ—Y6Ó«ü†åi˝ ∞0QHq°∆ ∞Fûƒ®≤Y tu∫e°œmé$:¯ÆÑA`w‹π>ósEe£Ç{˘Æó—eLùfH*	Ü÷#¢Vœ}<ã¢∑?ªBr–ﬁ?F‡?8AL∑A¢)6;ﬁN«p&'≈mtﬁùU`>“ k„Ô*ÆM6;SÁÿ(˝`Î‚“q*’Ê7ÆßÜß^}"Q}bÎå¨}ì¡ç ÉKæ¡sY‘’e,~ŒµœÛ¿ohÄ¨tŒÖõóü_R»äv8=ïêL=¶D-˚∫58ÖÂ¢∂V=≠<ì‚TÑàéÂdc)ù}Ë:óå¡«s2X”.±ÓÖ€◊He@p@Xù÷eYüka†≈>Î°ê[4…:≤‚è⁄’kwX;´„»ûTò‡€Éèe±MÃ≤“ Ÿ%"6a^.Su4M$Ov∏H*¯}u≥k@$éW?÷∫ûun>qº¡∏â÷xjD±Òttl©¿cv˜”âBaÿÇ65ñ∑v[§ƒÇyU‹∆ÿwRa‹¡·4˜„•Éˆ∑'ç ˆG G≈g„ÂYÈ\6ª¥˜Ûï¢“◊≤[®Nâè Ø&µå|ıøß6å±ùTÌø€h∞¥†;⁄ËwOö«Îù9ô¯ñ„øGªVéÑ∏%}:± ‡1Î˙>oö¶R{[›[ƒ9Ñµ√¿Ñ ÀMd…”$•íNô%,ô:dî≤dÈî≈$ÈíS§íI"ÖëÎ≤Yh:Ól˝»
+u:'@t?õ!atM8ñöŒœ?.À´ÈÆ;Aâà\Éòi∏Ù4˘rÁMÍG∫vëÊ8PdœäT^úÒ™Ü›–	-◊≤Ü=ﬁµ`É1°Ghê˚‘#F—‘+Ã™À=MSKâé¡ctæügS…RÃt2«8±ù¿òíµ≤7º˚H!ÓÚh∏∏˚Z◊7⁄~ã –	‰¬ Í∂õÿÌ≈≈`5â.‡çIU≤È~qãΩµé˝Ëı∑@÷h¡†%XÙÜÑvN¢T7∑9∏ç≠õ4≤Àœ v3I<µt‚©,Œ≠–˛€KÖZ<…	È¢Ë»^≠z±‹˙}n€wÂ™W◊)¥UQvC…€Ï$v˜B“ËyCbıÌ{=é'É∑E[?£¢Ã∂ñµÕ’µ≤%ŒÒÄê⁄◊Kà Ä”ª©ãëÎÔk™'Û^5r∏X*≠x?&´9√˘±3œípbë◊FÜ]oæ»sé÷Î∞h>%a†à<%]|zéÜ™ﬁ´ ª‡4ƒ»äËÉ]¿◊`‹;NÑ|
+zo≥—U¶kqˆ∏˛CÊ£_¢·±‰É⁄DB±eπÖßQ*ı†û–ß≤Ÿj]~µá“-Á¡√Ñ<+'”Ôa ˘¢€mtµÏyüsgDÅ‚d8HÆöáœ>≥`ª-óëinÁGª¨U÷˝s „„∏q∏¡Ú"W$¨‚7ˆ59èÁ$FóØ⁄≤I”'1¨ô:I)d…”$•ì§ô%1I:I)–I$ëBí·$íSí\a¸”>2âM†·§®9ªöÊœ“u=è–í?
+)∆ô!+z~ìú÷CÃntÇ{Ã-ÊÍ›8+ámèa≠Û‚'ºè˜.Ø¶e˝£ß˜Gﬁ†úkV÷]ÜÛy◊Ç¨TH? c‚UM‡#‘È ˝È£vRÃ,-Éﬁ4Gi ¸U ˝uVkxe<A¥5˘)¥!1Ûß2ä
+r◊#®5õûL¨‹|JEª√ sá“ï°ù.¥éA*µlp≥ÿ@êöÙ∑1¡cDÎ…D∑*H4Ω„Ó˘™Ïi‘Ì9≠v”kßÊà`° u,`Ωﬁ¶I‹5ÉËÑWzmûCQ•óY5∞ ◊Aﬁgè%K≠dÙéíÍœRΩƒº{jnÆûwmn∞ú#[jQ,êÅ·ëØÍô◊¥ò¨LŒß¡Xƒπ≈écà j!r˘Y:.3wc:◊ÿHk!¡∫i$ï[¶}aÃΩƒb≠œ Òî'®Â«îp∆Ô}C‘∫˙ÎŒk∑ÅøB≥~ªπˇ c∆uç˜mêíπrYO/#(ÌyíËl.«§tÒóÜ÷Êìí®‘n‚¿Èæ´hLo\:+¢·’ìà—ê=XFˇ vü5»}bÈ’ÙŒ¶˙)S¿±Äˆ‰}·z√
+j´F@Ú\ó◊ä‹Ï¨|ù§4∞∞û“¬ó§ùÿ˘∞% 4ÚÈì§¶i¨ô:dî§…”$•ì'I%,ô:dêË¶Ní*Y$°$î§;ªYÉ‚à∑>ØUâ≤Ãõ¿{ÿ‡ÿâ⁄Â7!â%ìYàÉW’√«q±ﬁë%⁄ÌÅÂ¬€Ëô&åè≤Y -?¡tu~œ~¥ÜyÄOM√∏Ó,⁄·√€°VîØ£sŸˆ» Ÿ˚øDZ^LGÕW ≥Ùo;†hÓ%J∑Uˆ›£‘˘¨è ™”`{µGÇß˝BpQOMí—€XW‚G√∫Õ©¿:ö´’:AÌ¢ ≠ìóíf«Nì0T∫∂ç‚xÖeıﬁ‡G't(f∞≤∆¯AE16@Ó≥K`Î£™ﬂ◊0q.c:Ö≠¢≤“ÊÉ$∏7N üTŒ8t≈∂{+¨ûˇ  ∏˚GÆÛmƒΩÁó∏…¸S¢…õ“8c\GØo'oÆ˝xÀÀ€è—ÉÒi¨œ≠√›°Ä5\ù◊]uÜ€ﬁÎ,vÆ{….'‚U◊ê¡∑ü4WÍû5RNxHÿŸk È:)~5˜GÊ@?$ìıi◊∆Fd≤ÆCu◊‚bS]>ñ8i@¯&‰6(3Ú¯%ñM,P^‘+kºOﬂz'Hin0¡y„⁄qz√Z2>D«Ò^ç“€&á¡“èıì9Ú˘:Yùw¨Ïj∞Ik\ˆ·ÕÇ¥Æç‡é≈6E[´'êf~bDâïˆ!$‘S‰È"‰“qÚ-°‹÷˜4¸ä∏Álid…“A+&NíJbíIíBì'Líùì§äñLù$ê≤6&UòóY®·ÕÏ·‹$…bäbLH#Bœ	Ù[So®Àˇ ∞¸€˛Õ^1∏X[vùAéW/ıw(≥'ÏotWtñœgÅ¸BË3i7`∏ÙI*ô"`HÈ—”√1û[£ÊÉ.û°Mﬁâ&Ãr	i‰4¢áìıt[ç’\∆	m≠-xÚÏ∂≤)uvñƒ	ëÂ‰öFñAV5>'HZx-ì«eôÓüeZ™ŸÄ;ÛÚ@#tÔ0‡·ﬂ_öπç`pÚTËnº±ÆÉ¥ˆÒDh¥Ïﬂ{?J§Q.•∂2ò¶≠¡‡ '‚à]é<ñŸx>aıì;Ìaı÷Gém¯ÚÔ≈úw‹… ô]üRÈÿô/ı.©æßgƒ˝Ëxÿî–kZË”…8H£6<bÃ•+≥µ<≈}/!√kvé$≠æõımîº[aı;FÅmUX≤F“‡q÷UâéÎ^!≠{~)_r L!¨cÍÒyﬁπkËÙpË [ylv∫‹Ë˝3ççŒvÆsµ$Æ,u‘æ±Uo‹Z¡‰]˛0p•ªyjZ]ñ	‰2èZ∑œæ∏c3Æñ”¶ÔNœÌ◊tódUÓÏπœÆ‘Y˚^åß}⁄÷è"√®¸VÔ’±ÏÚÑŸëq≠µY xg{ËÎ‰V@‹ö¿Íı‡Ö;}Xß‰ïQZeƒ<ãÊXÍuúñéÓ˚¿+-l˝icõ÷Æ']·Æté¨√Âèêid˘ÂÊVLù$Â´&NS ïì'I%1L§ô%:)&NäñI$íBì'I$ÜUZ˙-e’ùØ≠¡Õ>av3´bg¥µæÀ\?IKø+|óïo}OV‚«¥»#B2cÛ3`Ê%Äû±;èÂ’ÏÍ¿»£=π5√ß¥-ò2‘π∆%«≈`tÔ¨XˆV⁄≥…≠„BÒÙO∆8[µdUc'Õs4Ç“‰UÃ4-¯Âéj1"˚4ﬁ“√±›ªßi-:'Ñ<¸ìé·sõ,¸·ﬂ‰•]åπç{µ¿9ßƒ ∂`¿”`<ù’9ˆ¿iÊÇÄ€Ú#1¬∆¡‡¯Ú•∂ﬁƒøç Õèà€∆¢J»mÖöpG3¢∏€É⁄ª°}F∂´X€ÑÃvµ¬4ÚF/-ô¥ÛPıÿ]$µ‡öH¬*√ó;ıß¨µ∏Ó«a’˙-l´]∞Å¶ö,:u√ëíKﬂ».‘ÄNå¨¯*W^%ƒË‘d7?)Õ€S^$ªBA”OΩzu(.,™+Eœh?zÌ®˙ ⁄'kD ]mÊ~ª1ßß—q˙U‰2ìÅîo´nñÄ5–-Nø”kœÈóT@‹®”¸¶{á‰YüVÎÙé”¶›d5àÒLMâü†π€[î;%ı1ç“bJkdÓ&N™x√s¢u4≤:|ˇ Îãz£]◊T ˛…!sÎ´˙ı^‹∫‚◊∆W*¨c˘O0©ñ)'Lû±díI$¨ô:d±Lú¶I.ÇI$äídíRÈ$ô%.ô$íR–ß]˜RfõYÒi#Ú(§íA§‘d€Îµ÷9÷`Ó$ÃÆ´	¯Ìsd˙G‹—‡J„ÿ‚«µ„ñê~ÂﬂT˝‘1Ó:Ω°∆<Hò
+c”E≥ ˙ÑÅ◊f±$DH€ }Ôù5Ú(÷W§Ò‹°¥˚î@ËÕ≤f√Ÿ∏sÊ†ÀKsØÕ! ˜2ù–G[™Mñﬁ€ú∆±¶®d∑v·©>™õû√∏|S˙‰Äx!*µ	'±‡∑i$í≥rﬁ»‰¯"›í{Òü5ôìiy:Ë8îBxë≤∆≥.á1kd¸◊}àA®;…y∆0ı≥qÈÓ±†¸%z6Z ∂èSÇŸw;su à:,lF˙78¥ˆ˚ p≤Xr¨gÉìg—8∂êu@Æ{¬é&Å¿ˆ*u—¸êÒœ”Û(ızñ˙˙∆˙XÔ¸Ì‰}„˝ãä+¥˙Ù·Ë„∑≈‰˝¡qeX≈Ú˝KS?œÙ&Nô=çIì¶IK$ù2	&NS$¶˙I&EJ)$S$•“LíJ]$…$•“IY≈ÈŸŸœ≈°ˆœp=ø7píö•u›ÍÓ¿≠õÀÏØG˘∫®tﬂ©e÷Üu7ê‚7zuü¢<\ÔÓ[6Ùº~ìÈ’á^ ÏBI2;íT\ƒnÿ≥Ú≤¨ï‹/r‹∆Í”¨¯¢µí$®XA¯*¡µ$<h„ wL˘˜ÒÒIÕe≠ÿ˘˘
+ãÜ÷ N¯ÓyEiFÈùx#UV÷∫IßeØoÄ´Yê„»ì’8d;l˚µTÏæLjªl.|;√Z$¬4ÑΩáuli„q˚‡ØE®@”¡y◊D∆Àø®’ê¿E=Œç]¸ïÈ5`wàEG¢Ó’èH/Í˜_¸⁄qÜ¨ÍÎ€ôk‚7Ì#‰!2}<◊„?7ìti^‘†9„Õù4UæçáÃJDÍÅ°xÔØM¯ÃÚ{ø,ª?¨ŒmYxÔ»®]äˆmx#º˛˜c©}Wœƒ»#æµ ¸s∏n{$i‚%X¬AçvjÛ"d˜qQ-™ ^kµé≠„ñ∏A¸P‘åJLù2JRdÂ2	X¶Nô$∑”$¨·Ù‹Ó†˝òt>„¡-â·5R]-?Q:›ÇlÙÈÚs§˛√Í|√Ú*»ï)Â]æ/¯æÆg3-ŒÛjhÛt≠}TËXÕ”ÿ[À¨qwﬂŸ*SÁT—vC≈tVÎ^xk'ZÿøUzæCC›X•ßçÁ_ÛDïﬁ‚a„–ÕòÏml"∂Å>+A¢ñÓ ¿‡p
+4ßöÈ?QÈ†ã˙ìΩw[X—ü⁄Ò]52Üñ±≠ k@Ä vJªƒ“ûñ3ì‡ $Ñ,Âœ»µ¨V˜S[ò5∆O<Öi∞€ƒ˛w?˜)ÂR.°ıŒäl«H_é\åªõ§ @A∏;TwVZÛX$ë»?rÉ€Í©˛Ì \<yHX ¸e
+ ∆˝›¯íèéÊÅ	¢øºë?^‹Vç@ÁíyZÜ!W¥»2~	À^w5Ö§µºéVcÍ∂—Øt˚Iqü5U¥K√õàz ´ÅﬁËò≠ØÜ4~kI˘Ö“±∞»+ß∞4ƒq†Z”ÌN§HÎL€¡Ux"÷¡˘óLçPàóñô$¡ò2Éd	wÇpÁnàˆÅ2¢ÁH>∏]Gπÿv“@%ÃñOà·\∑åûÅérD9î¥µ‹êﬁ≈-€Eá˜[ |—≤0ÓÕ¶éóQ⁄⁄⁄”ê˛ÕÙ~*l=OÉ[ö‹y˛«û√˙ª_]È◊√TÌ∏ŸÈπ£ı©Ù€^ÀÈsò√•¨’Æ!{qj≈«f5⁄∆¯™=Oé≈ÿDÿÈ# ‡P¶π‘æ0ôzWX˙ïç‘qõn4Qöì◊ˇ X º˚;ßft€Œ>mN™¡ÿ|¡Jê’L§ô$±Ñì¶AOG–:^P»/Í9î·‚‘Ap}åcÏ˛Kà˘ïÈÿ¡f3”=/≥4C=ﬂÛõ2íI›ï€•1ÛÑíIK∂5P{*-q‹çu	$íú⁄õ∂Ú÷ôi:ê≠Ê8ä¿hë¯$í]’é◊Õ^1 §íJ(nh#B$qFi.gªCﬁRI%8›B∫[dÓi‹{ ¸G1†}!i$™Â·‚4‹√≈¬-©u|êÒØäw4ÀL¸§íÖõ¢p˚’§|ä‰ùd4íN
+`ç~JΩu÷oa. Çé{$ír·oGÉ;uÂi5I$Ê9n∆Õ ç`ˆA~±‚íI≤]êD|–Ïê;$§íi\/O5Ò™ıÛÄuÇñ∞I.Å:à|◊CC(ch!¿qIw}«≈$ïé^∏|m©Õ_Ö;í]¿Ì›R;≠µœøÙ`˝ªHh>} I)X1˜[kûAcA€[H"@Ó©uä∫UıπΩT–¿DEÓk5ÚsàÑíD(º/S˙Ω“◊[”∫¶1p:R˚´3prÁ-≠’8±≈§éÌpp˚⁄JI iAdíA/ˇŸ
+endstream
+endobj
+%--------------------------------------------------------------------------------------------------
+27 0 obj   % PdfSharp.Pdf.PdfDictionary
+<<
+  /Filter /FlateDecode
+  /Length 3113
+  /Subtype /Type1C
+>>
+stream
+HâdTyPWÕLøp¬4=1LúnÂp¿#
+*A<¬"ÄäA Ä—,ƒ®Kêàgÿ%°–h@<É± ≈’Qñ&cL:^∫IÓ™âk™æ>¨⁄áfè⁄≠˛„´˜ﬁ˜ΩﬂÒ˙˚8¢˜"«Yó§∆≈œY8nN·Ü‚ú5Œ¬		9k÷ùå“lúf’„xÃÿ4»è$F√Ã·êÎÕ~'^6o∂%’ŒŒ/(/*ë´CÂ…ØEF 1Y˘ôNyqyQ±s}ëü∑:ø∞ ø0£ÿô&À1ππÚ¢°¸"yë≥»YX¬vˇÖ-Á…r°sM+-tf…≈ÖYŒıÖo ˘ŸrBN^~qyÅSéô+g‰eMÃg˘Ïñ¢ôE9Y9Ö9Œ¢0B8ˆ£ÓE¸8‚Oàï!£		‚»éå%dG&qd*G"	â"dñë$¯íıŸNHÛÑËOI
+©&M‰s“…˘sQ‹«‹/´◊Î^∫ÂÖ∫T]ÆÆR◊ÆııGÙ
+Ô«OÁ[©Å.¶'úa∂¡e–å∆∆t„ﬁFÔdÔS>üDü>˜ÜK∂wÿó&ã)¬¥À‘oîÕÏ”ä!Ø∫‘rÑt°Ò™V,öHÌÅ<>ööeœ∂RÓ¥[ªPgÅ<B < ¬{ §d{ùä##0ß‡Ù^ºá#Ìœk ∆≠kÚlªQÓ¡¿ô2e˚izFˆB LÄÈ8Üj0 Ú8å÷π0@t”õ>ÇöS†BÂ⁄†V◊"‘™XÀ(U˜roÎZM‰vo5W)⁄˜
+◊ÆB∑™ÉœK"◊„<4¢q¡º	ÊÅåı,Kä”q)F`H3fC§5C6ëK1Q27ñh•0Ïs©B¯jnÒ‰J^¯¯G¸S¢z&Q`ß¬i°t,ÙâóÈu0V†i‘¯Ãà‘ƒ∫Cã§ÕÒ|…•KUäd–_°?ÂjX≠TcËkT∫˙‡π…Iø)˚µ}Á|æ©˝¸ám◊˚÷Œ@+é~wºT>$Tú
+˜PÖù™N[ÈI—C´	_ˇß∂∫N¯t§"An¬≤IÀÔ;∞Jä5îü=_uŒ°?ﬂÄ0è¯mKÛ™6K@1ßüôÎµ<º-§√\≠é=uTƒm*4FŒÒé5ñ@í¢âW∏˝Q∑ﬂ˙ìñƒ√œÙ:&ÒW)6{˘¶àxâ¬xM‰YQÖ¢=Rﬁ˙ƒ“°
+™0Iª‚âı£5ëuô6Ã≈ó1◊b.å¿`(8s£ÆÈ§¥U·ãV«mYa√¯A,ƒ<àowWüëÿÖ’äv]·n©ö?≥8‘c¢0	ÑXÃ¡u(N√e“":'I3Öç0„ÏÑt·	c®πìi∏£@ç¬ı®∫´
+w†V¡Z®Åﬂ+ÿ«D˛P°@ìïu≠ñÀ™6[h]›bÈ∫ŸÔ•ˇ£ÆÀUÎ]í‡øÎ2/<8∞|ÍÓ7˛OQè∫ØÂ[	~ƒçIn0cDcâ'±ÙlO‚F®ZÒXJô›-+<V∞’caª⁄˚’Ω	%o’rW’æSÖ≤ª,›ªÜB˝SoæìBù«õØyÍÕÆpP·Ó¿]⁄ /?¿Á\™V†Í\Xƒu5Op¨∞¡ä'0÷’Hê\„ÄhÃ∂a∂£1ôÌ(‡!ÚN@:bXàƒ»ò p\c!ío`÷]T‡SÖª´¬U«(¡≈øS{¯5XaD¯|Q¬h™2ÎıÙØÁR_AKhE†î∆8ûq*n≤¸YeÕ*Ù(‚∆ﬁ˘⁄Ü_ÇQ§c˜˚ ¸p≥˘ÍŸˆ ∑[ÏÇcØõz“ñ|êcCﬂ–8‘K¯:tøç#±´^ùüVˇI¶˝+èE· ó˝πÃ$d*Éí ìôx©˙Üvj®cwLNLc}OqˆS¬oßÎ!|$≈πœW—lKa˘”D˛/T∏ ÛÿöŸ«NÔ0%œﬂ0îLw;Ö}ZÑòè˜1ÓÛ”ÿŒ`?§’ïqﬁt¡dóÂ3ˆ∏Övaìf¥~Aﬂ;V›“ “hYø±,Àûhh>{nﬂ[_À™©“[ÅÛ7„Ø$°uES(ªømÌ:lØ°[ H\≤Et$ß¸
+Ù`›úΩÅöá–¥ô.(+µtª·¢ –Êu[›Thø]còÙ|~7õ3ﬂ∞97&&Å«éIùUX)máõ	T„7ãé\§hB}ò˙˚èÉ	`jAÍ∞õ;+\ÏÊ“è-mœ[w™ˆ;÷∫;ÀW}òh√q!ËÖìqÙ-ÙÉ»?~∂£˛siK'ˇé3ªrµq‚Í˜‡{¥Ì∑õéJˇMìM‰ãÃ≠‘S)&‡ÕÌÙ`ej˜éMB=Nƒqﬂ†‰ÓÛáø<*’P!6 mZ9ÿ%>j ¯ÈO°),,kà3örÅ>≤?3R\Á‚⁄The3Òµ[bŸ˙yelàx%ﬂ"¡„#F.#°¯*ÍpNp#Ög;ˆ4ú±„e8,ˆvÙ˜ﬂ?˛ ª9ÖM˚Â.XÊzwèÃn°ÃV∑∂.4ú°]ï˝w>⁄Zµﬂ.å®Ω»kÎ*
+vî⁄≈≠Hd);hÈ?XßÁ∫
+A∏Kõr:√ıã‰c‡ÛÜ„ì—7,ìçi*Ø˛ÈGª`—Ü4&P·XÚvC◊ÚUªÁ˛€˛<éÜRZ˛1M]Q∑∂Ô=«∞^aI´Ô«Ädf!ŒÄÃ∞lCA†P≥L%˚åôlc∂0ÿXÀ*j˘±•ìÅ ¢`¿πf
+Ó∂∫·dH∆f.Ïá&ƒú[O›vníe…í˛s˚Ó=Á‹sœ˜sN“ÌWyJ0Ê=√ƒ‹ú√GÚ˘g∫ ;˜∂_.˝⁄©_Q⁄WõUœµn\É„ö~<JÉvÒfÔ]0Ã¥lxR¡ã\í ¢p
+Wn¥æúS¨À!à'÷‡ÄÑ…àqÌ:≈(ûä©§'ibóÏ`w@∑4›,B67DÏÑ"©]xJƒR,ò-}ñyUsõ˝U‰áÂÚ yb(>ˇôV»˛˝Q0#˝ë˝]Ã˙Ãô%äKºYæ©5œÇ∫7∂9T◊Aû¯yõ‰~•ˆ’|s¿¨A∑$Ä¸Õ†o‚Ñ5U¡[¸ü˘k…8œÕqMÓ„¡vã?ù∫“çÆå«‘4ó¿∞c#¢¨ªÏ‰SŒööÛa÷øéD<Â”ü°«AuMê…£Ñ‘Õ`¬dLﬁå&T_ÑN√bX<∏öﬁ',k5	dq÷4Ñ)FÃ∂S1±KH•£X©¡˘ÉbZGˇÓÎ4äãÚSﬁ*W)öx˜/Ω¡N¶√∆•⁄À•0'’˘B≈6!«05r:<±Œ%}Rô?ÜãàÏzˇ…ëı û◊ƒÄé¸á¿BÇ∞çP&eOc’≈≠`∏}∏≈U”§åHá>(;TaŸÚ“vk	è;Î˜t…]Xkœ1›¡4¸œj∞Ö‡ﬂÂâ,Îÿ7`ª”√ïπ›ï”Ê·æ#√›}U'â¸ı$™±ñ<[}±%)π V≈xpµ‚Rsˆˆ›ô/Ójj-†Ä»ËØ¬iΩ@◊§Î<&¶ÔpYúÌ6~&=·NCGGc}≥RsA®.+wæcy·›”ÁT¯ñH!9Ê
+ÉΩÕ3Ö›b‚k±(≠}˝À_–àM˙ì ‚ÓÈãÁ⁄¬ÚÛ	ó•ö≥µgzÕ‘∑},√°˚à•Ëò®±ƒ2x+âf¬≥"l
+4W©÷W“∆%>jB˛:π«Ô	æ	FáˆZhÔWÖVÊ–…utÚoB*≠©	©ÙıZpt!qÍŸF}c‘®HÉr1ò±X¯ÅZÖ5P-§ä∏≠∏¨|Kƒj¡8H$ÚØ}0–∏¿”‰Ó¿~|î•páiÅ¶˜ÛÑ4GYûÕRRÈvW™˚lÇ≥ÌÿáG-ﬂû∫rÂòJ∑ı≤XØÆì-◊wF±Â^aà†7`∞AøÑCÅ8¡ÇÊä…=≥ÿÑ75˘{7ãë)é¸Ì>MÚˇ–T6Õ„i8ÁiÓøt»TﬂlìabäÑ]˜´˛∑QÜ‡ÙÍjÔUË¡i∏W·˝≥Ç˙©«øÕÉ;=PÍ·”Üô∆ ´óî∂Á>ﬁ˚W¯C⁄√Ïsãå¸[Ä <ƒ
+endstream
+endobj
+%--------------------------------------------------------------------------------------------------
+28 0 obj   % PdfSharp.Pdf.PdfDictionary
+<<
+  /Ascent 911
+  /CapHeight 698
+  /Descent -216
+  /Flags 32
+  /FontBBox [-152 -216 1000 911]
+  /FontFamily (Frutiger 45 Light)
+  /FontFile3 27 0 R
+  /FontName /TYEIFP+Frutiger-Light
+  /FontStretch /Normal
+  /FontWeight 300
+  /ItalicAngle 0
+  /StemV 64
+  /Type /FontDescriptor
+  /XHeight 510
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+29 0 obj   % PdfSharp.Pdf.PdfDictionary
+<<
+  /Filter /FlateDecode
+  /Length 483
+>>
+stream
+Hâ\ìÀé£0E˜|Öó›ã/ª™#!§t2-e1Mf>ÄÄìAö "dëø__‘-·8îÀßl*›ˆá°_L˙c€£_Ãπ∫Ÿﬂ∆˚‹zsÚó~HÚ¬t}ª¨£¯€^õ)I√‰„„∂¯Îa8èIUôÙgxy[Êáy⁄v„…?'È˜πÛs?\Ã”Ô›ÒŸ§«˚4˝ıW?,&3um:âæ6”∑ÊÍMßΩ∫æ_/aŒgƒØ«‰M«9e⁄±Û∑©i˝‹üTY∏jSΩá´N¸–˝˜ﬁYN;ù€?ÕúT˘óúe"·ﬁ’a¸˛9ﬁÑqë≈qx~%øÇ7‰≥#c~±'Ô¡ÃIU2Oâ<eNŒ¡%π;≤o…€¿ñÒÒñÒÒ÷í-X»V≤ÇÈi·iÈi·iÈi·iYsx$ï£ßÉß„Zk9ÆÂ∞ñc~á¸é˘Ú=ûRê0ÛÚÛÚÎ‘+≤Ó;ò˘˘Ö{.ÿs·ZÒ\‰ç¸f]Ò¸Ñu	Ííıl±ˇ≤û+jT÷®®QÈ¨pV:+úïŒ
+g•≥¬YÈ¨pV:+úïŒ
+g•≥¬YÈ¨pVû©‚L7X´»r¸øQ≤çÏ˙e‚”f>˙¢ΩœshâÿÜ±–˝‡?:u'f·N˛	0 çcÌó
+endstream
+endobj
+%--------------------------------------------------------------------------------------------------
+30 0 obj   % PdfSharp.Pdf.PdfDictionary
+<<
+  /BaseEncoding /WinAnsiEncoding
+  /Differences [30 /fl /fi]
+  /Type /Encoding
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+31 0 obj   % PdfSharp.Pdf.PdfDictionary
+<<
+  /Filter /FlateDecode
+  /Length 2365
+  /Subtype /Type1C
+>>
+stream
+HâtUkTT◊æ3√Ω3`Í.Íåﬁπ*RP¢¯	¯BÇî7£eê‰5C1¢5"J4¿jÍÉüµ†Òç°»CmµX¨¢¶	IÆZ⁄ÓãõÆˆ\¿ï‰G÷¨ªfùsˆﬁ˜€ﬂ˜ÌsåìíQ(||l‚‹∏∏)´23,øp{N∫|0^2($w'úÖéóÎ^Œf«1ılW»vÉ}#èåu9´ìÉvÃµÁ;23Vàﬁ+}ƒ©3CBƒ∞t{öEå/Œ/∞‰Êããl+Ìé<ª√\`I]√rrƒ89>_å≥‰[Öt˜’´≈Ã|—,:,ô4’aIÊtKÆŸë-⁄≠bT¶Õ^Púg√äf[∫øù∆”*˘´”Ú3”3ÕéLK˛Î£†?∆ça√åV0"√L`OÜÒR0ì∆èa&H¡Ñ(ôp'fëÇâbôx„Iô`îåä≈§1(à¬¶®W:)˝ïâ LÂ&ÂUàÍc’s'ßß6Ç›…æ‡¬πı\wèÎUG´∑´okÇ5%öªŒ„úSµ⁄r ™:<^c@EN[YJi=(ßa!∏—C©¬îXØú¿∆Ç∑∆ﬂƒ1Û¬ã≥£Ñj‘∞GŒ_9ÿfhi…}›q#.çå2¢≥Z[Y[(u”JçRí™QÍÊ·á5›,¯r∞M∫œÇf âFmËì™˚tøßØw=ƒÄµ íßƒg•`>eœ‚CÌ˙+ó?Ω‹t<#95}EzâÃÃwm∏}]Œ®∫ånH|cpd¯˘ÿ[9Bôöòë∂"Ò=N e≈+º∏„ò€˝œƒTAè—m>ﬂ∫¶-kÅ>v≈™¯¯%ß[€é5÷	Z%D≤ˆÈ`.àÉÈæ*]Á˜_l⁄”d 1≠-éE…÷\köë§f§Yì}ı‡∆ëò0
+"ØÄ®wd/£:"¢dÕ€©Öëˇù…ˇ@+ºY[”@	ßA,/“}‘ü@∫§	è©È˛úf+8|1–Ã√$Ó*Lc·$◊éÙœü√C˝—,r⁄ˆTô≠†¥÷]†‡:§@¯µYëËÙò ø¢/lº∏9∑…H™¿Ö%˚L—Ωc†™x°7a)LE
+õö´j.≈}ﬁ¢2}A≈˛¬C
+§j¢õÙøÇ Â@ ß5Q¸m?â§≠µA)ç*•õ€h‘hN[[ÿ]4Ï)˚£Â÷M≤£∫ã^’˜ßuR˜ )E√-)hC“XR]Ä>≥¿}† ~Æ‡êÅn‡çvt‡k8	≥Ú ∑–Åå-®£˙Îíê‡DúòtÇ∂ùb=C±∆– $— `°<œ›∫∑y∆¥9ﬂ·P‰ÈÈôs\€û¢‰}∆áhc!ÄC'8XrtuΩe˚ò
+ı”öÊø¸]I∏}ú,‡: √òt≠‡E5ı"]ƒ[ Ï„I◊nS¸Æ_("◊80‚ª–÷åcÙQÛÚívL÷£é]€qb„]å◊V3¬zl3Å´˛Óµ⁄ãó.ïÆ9+h•DÍCQ(5z•ÍÂ*:…∞à#©©ôZtÕ,Dp)õc,G*q›)„–çûcá#ÜñÚÚóîjÕê4U˝Uïr0É*åXò…a1¸¨Ñ≈…˙`zAã”9H«'Ï`*4J≥ä∞ój{eÈs∞]ö≈¢7ás<ŒÑÛ,Üp∞k`K)Í~æ@’´;	Ó∞¥®≤Óô‰Ãü8◊≤ø≈pˇˆcøË}á…hrXóáÍ…Vüß	__Ωy¨Â®P¡ëmÔñgVÊi»2p·>8UvrkÉfk˝÷Üœı7‘‡˘gú7]~≤@éwbˇiUª– ≠‹b]mÏÖŸ≈iÜÎﬁ≥F:5}˛=∂√∞ÚãtÙÜYGoóÂ§R°ÜÔ<—ÛËqùÔÇyé)AÅ∂ood∞Üéx^ßó≈ﬁÑÜkE-l*ŸÑX–a‡¸e∂•Vc¸ıúV‹–GãØ›M;I	êÇ§ù<È®∂¶òh¿‡ §f∆©›®Ü7öOU÷4∑Ää›X`.±¸ñﬂ˛Ó˚¶_û>∏©¥n*<<ñ=ïñ£PıÉPÁQ®uﬂ=~t¬n∏Õ/0»ÒÏØ…Ç“A®˝Ô——æX∆ëÍK+ó}a¿¿X:p|+R•Ø7Ôk<e¨êç€=‡⁄´ê5YÓ*Å´|«áıüﬂ1‹9π√¯ÜÚˆ%Ò˘ëÜêÿ_n1ÇƒAD"å¬xú6á∫⁄ﬂxÓ°ùW~{Ë“‡òI≥e¨
+ôV3ËÂ°◊C%w£ˆ_ﬂ?⁄6=J¿OÈ˙û4IèP;?6{I¶P≠2k4µ¶à~R‹uù†’IÛ§∫Oæu¢ó¶|ô“† °®]E
+§íÉ`;ı˛[∏ùÖPs†`≠|9‚4LcÀ§≈C•˚ﬂ˚!C&á⁄ˇkkèüÓ&-2ËqK.›, ›¨˛˜”ÆÚÖ)∂ÀkıO◊¥u∆c$Q∂≈9¬ül¶CsK¢£ÃFJ˙≤N©‚BÆ?LÈÊÇú˚6‚
+bÃÕèπÖD-kO]§êEØ°3vvÚË˝] ﬁ|.‡°Ë¸OÙC_tˆƒPƒﬂÒ]ü›}¸‰≥∞9¡y˛ûìÚæÈ¶ä`l!,ÌÀ:_aë›~ß≠<Pv=a?ıtt‹Ö%‘”¡?ˆÙ”™%πr?Ó∑—ù∆¿.˛«ì!OäQã”iüAÉ™êK°,π:(L,GºˇVN?∑
+ÅåÆ´˚ÕÊ#ÒÉzGII˘z√ÏÑY)[‰ÍÙì=BMá¶ûıÆŸ+ª¸äPæA›• ˇXÇNILöÍ#≠§ıõY˛∑ﬂ˜⁄jRë°uô±Ò3$ 5ˇfb≠€≥øiüÙw∆oªøÛ»˜˚]~Wj˚∂Î˜¨lÆ›"t!8›|+ÙùË∏@R_Tı®◊9·ÄÕ´˙'/óﬁ–˛ïµ©∂§≠X:¢~Àv˘Ô-ﬂπﬂ˛Ê˛Æ∆˛[*ÅUECÛ;$+˛∞.áGg≈èM?¶ãÛ(F=Àî¥Lªúí˚æ(rì˝7«”Ô|èÆﬁªTry∏~∆h˝Ùü~”áOˇ^<ùÌ˚äâ'ˇ˘5ù˝ª˜˜U"?vã øe&
+endstream
+endobj
+%--------------------------------------------------------------------------------------------------
+32 0 obj   % PdfSharp.Pdf.PdfDictionary
+<<
+  /Ascent 935
+  /CapHeight 698
+  /Descent -222
+  /Flags 32
+  /FontBBox [-166 -222 1000 935]
+  /FontFamily (Frutiger 45 Light)
+  /FontFile3 31 0 R
+  /FontName /SQUCRR+Frutiger-Bold
+  /FontStretch /Normal
+  /FontWeight 700
+  /ItalicAngle 0
+  /StemV 136
+  /Type /FontDescriptor
+  /XHeight 515
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+33 0 obj   % PdfSharp.Pdf.PdfDictionary
+<<
+  /Filter /FlateDecode
+  /Length 389
+>>
+stream
+Hâ\íÀj√0E˜˛
+-€Ep^5`míB}–¥‡ÿì‘–»Fq˘˚Œı--‘`ÎiÆè•…W€ı66ΩÀ_S[Ì¥wá&÷IœÌ%UÍˆzlb6ô∫∫©˙ü∑·Yù .À≠xw=˜z⁄∆CõÖÀﬂlÚ‹ß´ªπØ€Ωﬁf˘K™55ÒËn>Vª[óÔ.]˜•'çΩªÂ“’z∞†ß≤{.OÍÚ°l¥≠mæÈØ#´˘[Ò~Ì‘Má˜	e™∂÷sWVö x‘¨€µt≈£]ÀLc˝o~ÊY∂?Tüe ä)è«6o»„Ÿt`å9ÄÔ»w‡G≤}®òO∂¡xFûÅ=ŸÉÖ,‡y^ëW`fŒëÈÈ‡·‡ôÈëÈÈ„·„È„·„ôÈë)Ù¯s9¬AéÃ…s0=û¬LA¶0SÜÃÚòŒgYì◊`Ó°`Öˇ"¯ó¿}ÿÁ@ü ü@ü ü@ü ü@pà?ßÖ„¥ÆsøΩR]R≤6ZsËtFı∑{ª∂sVÖ;˚` õ4øW
+endstream
+endobj
+%--------------------------------------------------------------------------------------------------
+34 0 obj   % PdfSharp.Pdf.PdfDictionary
+<<
+  /Filter /FlateDecode
+  /Length 245
+  /Subtype /Type1C
+>>
+stream
+Hâbd`ad`ddu
+“v+*-…LO-“u œIqŒI…˛êf¸!¬ÚõÂwﬂØö_¨≤“©ºﬂì◊|œ)ËtŒ/®, Lœ(Q–H÷T0¥¥4TpL…OJUÆ,.IÕ-VÃKŒ/*»/J,IM—SPpÃ…Q©/VJ-N-*ä¬,V»,VHT()JLIÕM, V»OS…ÃÀ/©,H’ıHjttWHÃK—œ™Í/.M*ŒL…L, L-÷c```bddbÊ„kú˙”oÍÔ–…ﬂÀß≥}_’ˇù©ˇœøâÏœ∏æp˜}ü!` kÌUé
+endstream
+endobj
+%--------------------------------------------------------------------------------------------------
+35 0 obj   % PdfSharp.Pdf.PdfDictionary
+<<
+  /Ascent 940
+  /CapHeight 698
+  /Descent -250
+  /Flags 32
+  /FontBBox [-112 -250 1000 940]
+  /FontFamily (Frutiger 47LightCn)
+  /FontFile3 34 0 R
+  /FontName /SQUCRR+Frutiger-BoldCn
+  /FontStretch /Condensed
+  /FontWeight 700
+  /ItalicAngle 0
+  /StemV 124
+  /Type /FontDescriptor
+  /XHeight 515
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+36 0 obj   % PdfSharp.Pdf.PdfDictionary
+<<
+  /Filter /FlateDecode
+  /Length 226
+>>
+stream
+Hâ\êœjƒ ∆Ô>≈wãŸú%P∂rËöˆåNR°eby˚é6l°*„˜˝‰sÙ≠Ï)d–o›Ä¶@ûqç;ÑÁ@Í⁄Ç.]››bì“˚öqÈiä –Ô"Æôw8=¯8‚YÈWˆ»Åf8}ﬁÜ3ËaKÈ§txú‰°gõ^ÏÇ†+vÈΩË!Ôa˛{Bhk˝„¢«5YáliFe©ÃìTßê¸?˝†∆…}YV¶-ﬁ¶ë£xè€B…Á‡…mÃí¶N†∆(·}H)&™,ı#¿ Ÿ∆o0
+endstream
+endobj
+%--------------------------------------------------------------------------------------------------
+37 0 obj   % PdfSharp.Pdf.PdfDictionary
+<<
+  /Filter /FlateDecode
+  /Length 834
+  /Subtype /Type1C
+>>
+stream
+HâLêmhSg«ü€&7æd—ﬁªkcÉ˜>L∞≥b´+H≠6:kZ€[õZ7≤)‹4◊xiÛ≤õ45NñM)RÊÀ∞ï∏ç“†`KMhu~hßR›»Vj≠ä0£Ù”πÒÙâ x>úÁ¸œÔ¸œaê© 1≥™•πuá«≥°VÔåiUﬂ∏ΩCikœw∞·`ﬁDúDyÙ•l^ÉñXú@˚
+8Z4òõÂÚö3;¬ëÑÆ≈«mÎÒÊOùNÏÚá}*nIDcj0äÎBma=÷ïòÍ/«ÿ’—Å=y}{‘®™«iı›j¨E±Çu5†—Q]ı„òÆ¯’†¢∑„A‹†Ö¬±DD≈Æ]X	˘+¬TO)—N_TÛkäÆ©—rD£U¢œP-⁄ÉZ–^¥-•g¢BdG	tüYÕ(L∫¿TPèmUÈxNÓbÇ\¯p»9ô»¨-á!∞7N¬'`Á&@ÜFê˘G¥C◊ŸÏ≈ ±^ì~%úˆ±ª¿cÊ´Õük˙e…)ÀãÙÕ…K¿∫Ó.Y)íydbÓ∞O%Î%æ°j[OìËemœí`á∞áÜ∏aäŒÚõåØçìü}Ÿ◊Í 5§∏î∏HóBÕo„Ω?èJ'†ƒ¸M–wÃÁ®ﬁ9>˜bb|ÊFÊXWF≤Å7	÷ÖE`ÄeÜ¡_¡ñB„/TÏÑ5§ïl!KK)ì‚÷AÕüúªp_ﬁjm˘ŒÎ®‹;8˝Ω‘≥(Lúæ3ÂòÙ6Qfo8∏% -}<K
+@4πHÒB˜æI	8ìSÀ>ö…ŒÕç‘Vo’jùím87xâe‹]pø=¥Œ∏(úNtûé;™(uRÀgˇ#ŒW˝‘{ƒ¬oZº˝‡Iz‡áÓ1ˇ&+±æfvy˙ÌÔñ¿ ]Ü™Á4zıºpdÏ˜„≥XEW@í¯√‡%È›≥%C7œ^Ωóå]Ç"ÛÖÊÜ≥çéµdôóX%˛<Ÿ}ìï%Å@˜¡˙∆˛~E¥%°å⁄æ+Ô>ß√˝qìÀèì˙ÖÀ´e˛·GZö±tØ>z<ù˘Á™xäÂ›¿i±%S99EöSL±p©˜’…î‹ÀsõÖ7 ¥Ç
+endstream
+endobj
+%--------------------------------------------------------------------------------------------------
+38 0 obj   % PdfSharp.Pdf.PdfDictionary
+<<
+  /Ascent 954
+  /CapHeight 698
+  /Descent -222
+  /Flags 32
+  /FontBBox [-164 -222 1000 954]
+  /FontFamily (Frutiger 55 Roman)
+  /FontFile3 37 0 R
+  /FontName /SQUCRR+Frutiger-Black
+  /FontStretch /Normal
+  /FontWeight 700
+  /ItalicAngle 0
+  /StemV 180
+  /Type /FontDescriptor
+  /XHeight 521
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+39 0 obj   % PdfSharp.Pdf.PdfDictionary
+<<
+  /Filter /FlateDecode
+  /Length 274
+>>
+stream
+Hâ\QMk√0Ω˚WËÿä›lY(ò@È(‰∞ñÌ$∂í«8Œ!ˇ~≤]:ò¿÷zOñd~iûkw?´∆jèÀºzÖ–„h,;†ç
+∑(›jÍ„$n∑%‡‘ÿafRˇ†‰¸ª≥û{‹3˛Ê5zcGÿ}]⁄=vuÓ'¥‘5h®–KÁ^ª	Å'Ÿ°—î7a;êÊèÒπ9Ñ"≈«‹åö5.ÆSË;;"ìÇ¨y%´Z˝/ ™~PﬂùgÚÒD\!»1Y	ìcÚÈ!arÑÀåÀàØSmYe~˘UÊWë_e~˘B"E‰b7∑wc_¥>∏≠VÔiﬁ¥„4h—XºÉõê*ˆ+¿ ï∑ÇN
+endstream
+endobj
+%--------------------------------------------------------------------------------------------------
+40 0 obj   % PdfSharp.Pdf.PdfDictionary
+<<
+  /Filter /FlateDecode
+  /Length 247
+  /Subtype /Type1C
+>>
+stream
+Hâbd`ad`ddîÚÙw	—v+*-…LO-“ı…Lœ(qŒ……¸êf¸!∆¢˛ªÔWÕ/UVYÈdﬁÔ…ÇægÅ‰;ùÛ*ã@Í4í5--SÚìRÇ+ãKRsã<ÛíÛã
+ÚãKRSÙsrÇ@ÍãÇRãSã Ä¢0ã2ãJäSRsã≤Ú”|2ÛÚK*Ru=RÅ›ÛRÙÛÅ*Å˙ãKìä3S2ã2Sãıòôò˘¯Z&˝ÙõÙ;|“˜⁄ÈlﬂWıgÍˇÛo"ª‹˜©Õˇy8rÂ˛ﬁ"` _ìW
+endstream
+endobj
+%--------------------------------------------------------------------------------------------------
+41 0 obj   % PdfSharp.Pdf.PdfDictionary
+<<
+  /Ascent 913
+  /CapHeight 698
+  /Descent -250
+  /Flags 32
+  /FontBBox [-100 -250 1000 913]
+  /FontFamily (Frutiger 47LightCn)
+  /FontFile3 40 0 R
+  /FontName /RIKWDT+Frutiger-LightCn
+  /FontStretch /Condensed
+  /FontWeight 300
+  /ItalicAngle 0
+  /StemV 60
+  /Type /FontDescriptor
+  /XHeight 510
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+42 0 obj   % PdfSharp.Pdf.PdfDictionary
+<<
+  /Filter /FlateDecode
+  /Length 226
+>>
+stream
+Hâ\êœjƒ ∆Ô>≈wãŸú%P∂rËöˆåNR°eby˚é6l°*„˜˝‰sÙ≠Ï)d–o›Ä¶@ûqç;ÑÁ@Í⁄Ç.]››bì“˚öqÈiä –Ô"Æôw8=¯8‚YÈWˆ»Åf8}ﬁÜ3ËaKÈ§txú‰°gõ^ÏÇ†+vÈΩË!Ôa˛{Bhk˝„¢«5YáliFe©ÃìTßê¸?˝†∆…}YV¶-ﬁ¶ë£xè€B…Á‡…mÃí¶N†∆(·}H)&™,ı#¿ Ÿ∆o0
+endstream
+endobj
+%--------------------------------------------------------------------------------------------------
+43 0 obj   % PdfSharp.Pdf.PdfDictionary
+<<
+  /Filter /FlateDecode
+  /Length 880
+  /Subtype /Type1C
+>>
+stream
+Hâ4èLUe«ﬂs·º¡EÓ{g‹Û≤DÊ™I¥ƒkŸÖKÛ≤l’ï{§3ÆvŒÂr	*:4∂Ót‚nç÷mQ.Õ⁄Ã ÿd∆Lgπ≤¨Ö+¸£›µÁ¿√Vá∂ûÔ_œÛ|üÔûè@“DŸÔ}<ËS´∑ù≠U5÷l“√!o$÷Zñ÷•ñ,XÓÙælV£±puaΩXL2ñUÁÄô˚Úﬁùˇ«µd⁄¨wtZÎæ≤•åØ}§™ä◊ÖÙ]*oÍ6#Íì{€[t£C7Ç5T¡y]8Ã˝K~ì˚US5¢ˆÙˇ∏fÚ 7‘VÕ>5‘è¡ê∫'h¥q}7Bk◊#›*Ø´Á¡ˆP•n˚Ì≥só©Ö¥†°©f±K πdyål%§â4ìLó§ëì∏@Ñ~·íCr®‹ik∏êÄiâ¸lú&Åã»©j˙Ó>¸Àæa(ø9=}◊ï 7º
+NÄ€˘ “¯‹gÏ∑Eê≥Í√˚|ç˝]~Àäqë≈«&ø<ˆµ|Óbo†w∞w‡%Âä.ÙÔ≈çÂ”Å;
++π61˛’Ñrà≤a‹˘çt»ó=ÁhU4ºÂY”FO*ŒæTÂ,‹JÅŸÂ˙8ãYâ˘W§m¯âx>ÿ<ÊïqÛ:¨¡
+ÖÌ«Ù/VÄÛ˚Oﬂªx⁄c∆ˆ÷àêG_{‰Ï»YPÊó‚oxS∫í‹Ó≥ÕÂçHÀº=3ü{XÏ∆«P¯ß«âF
+≤Rpu∂2ı–u◊‡–ÿÔá—'”3/œ»–8†z\˘—*?26tÙ^î(ÀÍ≠Ÿım˛Òz◊Ø¡J¨@ÒB	‰]ª|rÍ}õ3€¢+±Dnl}sábÂZ≈RŸs(rü19u„∞π©v˙<6®ç)ÿåpxúöï6ÍìWÓLBÊﬂ?º’¥ı¡ fó*ó¨z	Î∞–V-Æ¯u-‹€ 
+¡%´n°¢8áQ´ÙD20‹ÆÑµé%˘PDœCè¯”Òâüˇêèüÿˇ⁄1Ö-
+ƒ°ûÓÉ/ ¨vªwGì©†åèŒâË¶Ê@d†3√i7èZ»ÏrM/÷E˘PNŸÛ–`yƒC4πËa5ÖSV\ƒb „”ã‚™["ñQl¸Ø€Ω‘Qg_|˛…8‚`∆)$è¸5≤∏_¸‹ñ$˝+¿  Ñ
+endstream
+endobj
+%--------------------------------------------------------------------------------------------------
+44 0 obj   % PdfSharp.Pdf.PdfDictionary
+<<
+  /Ascent 935
+  /CapHeight 698
+  /Descent -222
+  /Flags 96
+  /FontBBox [-168 -222 1087 935]
+  /FontFamily (Frutiger 45 Light)
+  /FontFile3 43 0 R
+  /FontName /RIKWDT+Frutiger-BoldItalic
+  /FontStretch /Normal
+  /FontWeight 700
+  /ItalicAngle -12
+  /StemV 132
+  /Type /FontDescriptor
+  /XHeight 515
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+45 0 obj   % PdfSharp.Pdf.PdfDictionary
+<<
+  /Filter /FlateDecode
+  /Length 264
+>>
+stream
+Hâ\êÕjƒ «Ô>≈wãIXö$P∂ªêC?h⁄puí
+çä1áº}G]∂PAÁ7Ã¸ù~Íü{k"˜‡‘ÄFcu¿≈≠A!\q2ñ’h£‚ÕÀØö•gúƒ√∂Dú{;:&
+.1l∞{“Óä{∆ﬂÇ∆`ÏªØ”∞>¨ﬁˇ‡å6B]G˙ËE˙W9#,;Ùö‚&n“¸e|n°…~]öQN„‚•¬ ÌÑLTt::C´ˇ≈ãÍ:™oòhRnUë!>>?‘ô…∑Ö€ƒó¬TG¥Mf2ƒ%áL™´î:°Ö¡}LµÜ@Ê≠Ê—“P∆‚}Òﬁy U∫ÏWÄ 7‰π
+endstream
+endobj
+%--------------------------------------------------------------------------------------------------
+46 0 obj   % PdfSharp.Pdf.PdfDictionary
+<<
+  /Filter /FlateDecode
+  /Length 814
+  /Subtype /Type1C
+>>
+stream
+Hâ4èaLu∆ˇ«—ÎzNná≥’Îﬂ	Í¶ÎJ≠X~`õl XÅÊLÏ⁄k
+mπ;Z	Ã%ÎÃÏ†#d	Eúôìàlt`‘Ñi3CL∂htF…ê∞Oj4.$Ís›_ç◊æüﬁºÔÛ¸û<)/#«m	Z∫ˆt<⁄¨—U€±´7éÌéó~‘tr¶TŒ*Ÿô€√∑∂˚…&Áë;—s^∫;_ÃWï4Ÿ›â‰†Ì9j–G¬€h]CCmä$´¥}P7‘>ù‚·ÑñLh!Cç∏)mÍÌ•¡í^ßAUWµîu˝?úFu¢Üä®}!-FGË≥—x¬L™;ˆ©ñ±i/≈#;ñ“ÚÎáıh$“¢™Ó&÷pd+Òëf“Fêv“I6ZI·…2M~Áû‡ﬁ‡VÀ∂ä";üÇXÄc$]5^‹$˝`∆´—(0£ÿjc˚6¸O´^·SxlH1T»¨Nê~^≈Ç-'àóéC4S®‡>A„_h‰ÕÓ‚.˘‹˛DãìΩúaÕ)Àaˆs:Ç›˝]≠/^ò9®ú`˜ŸNº{=ΩÊÑÎèÿ‚¬(õmÉ‰∏¸·Öœ>*•?PƒKTﬁƒÊ_πyl«ì®·—Å/‰Ÿë[+Wßü(®y^∆€lÔ»!∂≠ÅIå≤«Wèñœó&fïWQiKE:”ùNo¯ ó.,	‚râ¯à≈Û£~~Ø…Ãª∆ ·ÉoÂ¬Sû˘òØûÒÃ£¿_Ω~ÒJ°p1X[€øø££i]óYW
+ı’ü@®*XÆùK+÷+[˚«9·–Ãºz›â{.c(û
+¿Œ6zé∂≈Ü\YA˙Ì˝Ï;Ÿ7∂]»Èπd¿!≠‡{PˆøÚÙ3-√À´KSø\˝vÏ·NE§ÁSÊΩ†ôt)B ™-¯1A˙˙˚â?Ω5ï=5≠‡!√Óx°=V‚ÊOœeﬂ;=∑Å’gí£±náH3‹)”jTuÀ"$ßL∑|ìML¯&¸„‚¬ŸÒ◊)ﬁ~rËÿ©gü1µËBf|-<vÊ>h£uvÒ¯d±uí8ã˛Isc(˚˚ﬂq;Hºï£wà8∑Ÿ<)ˇ'¿ ÛWo
+endstream
+endobj
+%--------------------------------------------------------------------------------------------------
+47 0 obj   % PdfSharp.Pdf.PdfDictionary
+<<
+  /Ascent 949
+  /CapHeight 698
+  /Descent -250
+  /Flags 32
+  /FontBBox [-119 -250 1000 949]
+  /FontFamily (Frutiger 57Cn)
+  /FontFile3 46 0 R
+  /FontName /RIKWDT+Frutiger-BlackCn
+  /FontStretch /Condensed
+  /FontWeight 700
+  /ItalicAngle 0
+  /StemV 160
+  /Type /FontDescriptor
+  /XHeight 521
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+48 0 obj   % PdfSharp.Pdf.PdfDictionary
+<<
+  /Filter /FlateDecode
+  /Length 267
+>>
+stream
+Hâ\PÀj√0ºÎ+ˆòÇl◊izÜê°ÍˆliÌ
+jI»Ú¡ﬂïRËÇ4≥ÏŒæ¯•}nç¿ﬂΩïµQªzâ0‡§++PZÜõó~9˜éqw€pnÕhô¿?(∏ø¡Ó¨ÏÄ{∆ﬂºBØÕªØK∑ﬁ≠Œ˝‡å&@M
+G*Ù“ª◊~F‡Ivh≈uÿ§˘À¯‹Bï¸2#≠¬≈ı}o&d¢ k@\…ÜF˝ã?e’0 Ôﬁ3Q≈‹¢ `¢.'`‚¯ê8è«ƒ	à_3ß⁄‚îµß®=UôWë◊ô◊©ˇ≠SúÑ˜5ÂÍ=mòÆöVãKiÉ˜√;ÎÄTÒ±_ ìá
+endstream
+endobj
+%--------------------------------------------------------------------------------------------------
+49 0 obj   % PdfSharp.Pdf.PdfDictionary
+<<
+  /AIS false
+  /BM /Normal
+  /ca 1
+  /CA 1
+  /op true
+  /OP true
+  /OPM 0
+  /SA true
+  /SMask /None
+  /Type /ExtGState
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+50 0 obj   % PdfSharp.Pdf.PdfDictionary
+<<
+  /AIS false
+  /BM /Normal
+  /ca 1
+  /CA 1
+  /op false
+  /OP false
+  /OPM 1
+  /SA true
+  /SMask /None
+  /Type /ExtGState
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+51 0 obj   % PdfSharp.Pdf.Advanced.PdfContent
+<<
+  /Length 627
+>>
+stream
+q
+1 0 0 -1 0 765 cm -100 Tz
+q
+1 1 1 rg
+/GS2 gs
+55 20 250 20 re
+f
+BT
+0.471 0.761 0.329 rg
+/F0 -9 Tf
+55 29.048 Td (From) Tj
+29.105 0 Td (the) Tj
+19.564 0 Td (office) Tj
+31.206 0 Td (of:) Tj
+ET
+1 1 1 rg
+55 32 250 50 re
+f
+BT
+0 0 0 rg
+55 41.048 Td (Keith) Tj
+29.58 0 Td (A.) Tj
+13.315 0 Td (Ziolkowski,) Tj
+60.372 0 Td (DDS,) Tj
+27.664 0 Td (FAGD) Tj
+-130.931 10.938 Td (3970) Tj
+28.67 0 Td (N) Tj
+10.696 0 Td (Oakland) Tj
+44.569 0 Td (Ave) Tj
+21.889 0 Td (Ste) Tj
+19.547 0 Td (403) Tj
+-125.372 10.938 Td (Shorewood,) Tj
+63.229 0 Td (WI) Tj
+21.221 0 Td (53211-2265) Tj
+-84.45 10.938 Td (\(414\)) Tj
+32.054 0 Td (962-0389) Tj
+ET
+Q
+Q
+endstream
+endobj
+%--------------------------------------------------------------------------------------------------
+52 0 obj   % PdfSharp.Pdf.Advanced.PdfExtGState
+<<
+  /ca 1
+  /Type /ExtGState
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+53 0 obj   % PdfSharp.Pdf.Advanced.PdfFontDescriptor
+<<
+  /Ascent 1005
+  /CapHeight 727
+  /Descent -210
+  /Flags 32
+  /FontBBox [-550 -303 1707 1072]
+  /FontName /Verdana,Bold
+  /ItalicAngle 0
+  /StemV 0
+  /Type /FontDescriptor
+  /XHeight 548
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+54 0 obj   % PdfSharp.Pdf.Advanced.PdfTrueTypeFont
+<<
+  /BaseFont /Verdana,Bold
+  /Encoding /WinAnsiEncoding
+  /FirstChar 0
+  /FontDescriptor 53 0 R
+  /LastChar 255
+  /Subtype /TrueType
+  /Type /Font
+  /Widths [1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 341 402 587 867 710 1271 862 332 543 543 710 867 361 479 361 689 710 710 710 710 710 710 710 710 710 710 402 402 867 867 867 616 963 776 761 723 830 683 650 811 837 545 555 770 637 947 846 850 732 850 782 710 681 812 763 1128 763 736 691 543 689 543 867 710 710 667 699 588 699 664 422 699 712 341 402 670 341 1058 712 686 699 699 497 593 455 712 649 979 668 650 596 710 543 710 867 1000 710 1000 332 710 587 1048 710 710 710 1777 710 543 1135 1000 691 1000 1000 332 332 587 587 710 710 1000 710 963 593 543 1067 1000 596 736 341 402 710 710 710 710 543 710 710 963 597 849 867 479 963 710 587 867 597 597 710 721 710 361 710 597 597 849 1181 1181 1181 616 776 776 776 776 776 776 1093 723 683 683 683 683 545 545 545 545 830 846 850 850 850 850 850 867 850 812 812 812 812 736 734 712 667 667 667 667 667 667 1018 588 664 664 664 664 341 341 341 341 679 712 686 686 686 686 686 867 686 712 712 712 712 650 699 650]
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+xref
+0 55
+0000000000 65535 f 
+0000000407 00000 n 
+0000000577 00000 n 
+0000000746 00000 n 
+0000000935 00000 n 
+0000023275 00000 n 
+0000023663 00000 n 
+0000023942 00000 n 
+0000024756 00000 n 
+0000025436 00000 n 
+0000026015 00000 n 
+0000026357 00000 n 
+0000026522 00000 n 
+0000030328 00000 n 
+0000034180 00000 n 
+0000034624 00000 n 
+0000034967 00000 n 
+0000035502 00000 n 
+0000039274 00000 n 
+0000043065 00000 n 
+0000046869 00000 n 
+0000050659 00000 n 
+0000051185 00000 n 
+0000054972 00000 n 
+0000058554 00000 n 
+0000065667 00000 n 
+0000068457 00000 n 
+0000075973 00000 n 
+0000079314 00000 n 
+0000079757 00000 n 
+0000080448 00000 n 
+0000080680 00000 n 
+0000083273 00000 n 
+0000083716 00000 n 
+0000084313 00000 n 
+0000084785 00000 n 
+0000085234 00000 n 
+0000085668 00000 n 
+0000086729 00000 n 
+0000087173 00000 n 
+0000087655 00000 n 
+0000088129 00000 n 
+0000088578 00000 n 
+0000089012 00000 n 
+0000090119 00000 n 
+0000090570 00000 n 
+0000091042 00000 n 
+0000092083 00000 n 
+0000092528 00000 n 
+0000093003 00000 n 
+0000093275 00000 n 
+0000093549 00000 n 
+0000094366 00000 n 
+0000094554 00000 n 
+0000094907 00000 n 
+trailer
+<<
+  /ID [<0DDB4A9641484559AAB082379B05CBC6><5AC2B03215968E46A9BDE6146EF4B9CC>]
+  /Info 5 0 R
+  /Root 6 0 R
+  /Size 55
+>>
+startxref
+96304
+%%EOF

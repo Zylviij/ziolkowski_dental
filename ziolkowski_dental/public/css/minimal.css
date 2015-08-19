@@ -23,6 +23,25 @@
 
 }
 
+button.social-button {
+	height: 70px;
+
+}
+
+div.pad-bot {
+	height: 140px;
+	margin-bottom: 20px;
+	display: inline-block;
+}
+
+#welcome-to-z-d {
+	font-size: 30px;
+}
+
+.icon {
+	height: 30px;
+}
+
 p {
 	color: #fff;
 }
@@ -30,6 +49,12 @@ p {
 /* No media query since this is the default in Bootstrap */
 #ziolkowski {
 	font-size: 36px;
+}
+
+embed {
+	width: 100%;
+	min-height: 500px;
+	background-color: #fff;
 }
 
 .dental {
@@ -48,6 +73,11 @@ p {
 
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) {
+div.pad-bot {
+	height: 70px;
+	margin-bottom: 20px;
+}
+
 	#ziolkowski {
 		font-size: 48px;
 	}
